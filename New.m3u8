@@ -1,10 +1,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ZALTV LBKB",BERDOA DULU BIAR LANCAR
 http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fatihah.mp3
 
-#EXTINF:-1 tvg-id="ksa.-" tvg-logo="http://kamiselaluada.com/img/ksa.jpg", JANGAN LUPA JOIN DITELEGRAM
-http://kamiselaluada.com/welcome.ts?0
-#EXTINF:-1 tvg-id="ksa.-" tvg-logo="http://kamiselaluada.com/img/ksa.jpg", t.me/kamiselaluada
-http://kamiselaluada.com/welcome.ts?1
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Drama
 #http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Sport
