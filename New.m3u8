@@ -1,7 +1,10 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ZALTV LBKB",BERDOA DULU BIAR LANCAR
 http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fatihah.mp3
 
-
+#EXTINF:-1 tvg-id="ksa.-" tvg-logo="http://kamiselaluada.com/img/ksa.jpg", JANGAN LUPA JOIN DITELEGRAM
+http://kamiselaluada.com/welcome.ts?0
+#EXTINF:-1 tvg-id="ksa.-" tvg-logo="http://kamiselaluada.com/img/ksa.jpg", t.me/kamiselaluada
+http://kamiselaluada.com/welcome.ts?1
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Drama
 #http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Sport
@@ -27,7 +30,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="FTA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="FTA",TVONE
-https://stream-01.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+</body>
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="FTA",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bsworld.png" group-title="FTA",BERITA SATU WORLD
@@ -52,309 +55,359 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924728~acl=/hls-p/ingest_204_*/*~hmac=9c9293f177f89d3d5e8f78f2821fad81a010959da6cc36b5aa4d83dcb281a6b1/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1615924821~acl=/hls-p/ingest_205_*/*~hmac=4da06815c74fa8bc3ff65820bb9e3a94878bb609958b83169072536f7473e8ad/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="VIDIO",O Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1615924822~acl=/hls-p/ingest_206_*/*~hmac=f6d31eea8145b460db213de98c6ad8bdaa58136ee8835c2681222383b8386cd2/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ajwatv.png" group-title="VIDIO",AJWA TV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924822~acl=/hls-p/ingest_7464_*/*~hmac=f1ec6d9723f00270cc6e5b065c6abfb6a0fa291c014dfa30cb7e53c1d2c14405/hls-p/ingest_7464_720p/index.m3u8
+#EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="VIDIO",AlQuran Kareem
+https://etslive-2-vidio-com.akamaized.net/exp=1615924823~acl=/hls-p/ingest_6852_*/*~hmac=997cb9cd47a866b89ef25dcdd3b24eb78499571d750dc463285a09429f43f46e/hls-p/ingest_6852_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO",Kompas TV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924824~acl=/hls-p/ingest_874_*/*~hmac=07c9ed2426e10804861caeaee52923b0fea49e58a8a78e038fb23f3ab95ae1d5/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="VIDIO",Berita Satu
+https://etslive-2-vidio-com.akamaized.net/exp=1615924802~acl=/hls-p/ingest_6165_*/*~hmac=a7c1d4a677d13ba4b314250103f4b03c0e932e238f9191bb4c6ef2d242c89051/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="VIDIO",Metro TV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924821~acl=/hls-p/ingest_777_*/*~hmac=7212228985be5fad83c95c5fe0f20f94b8b80cffeed9e4e8f37a320cffb57d90/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924826~acl=/hls-p/ingest_733_*/*~hmac=bbec4c3995095e42cd2f2c2f2af684d498b6936d7d42713e201368dd40f044f0/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="VIDIO",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1615924827~acl=/hls-p/ingest_665_*/*~hmac=92cdc1c40666124c1e071b13cd98fc510e125d7017f4081dc2570c482ce0b5c4/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="VIDIO",Trans 7
+https://etslive-2-vidio-com.akamaized.net/exp=1615924828~acl=/hls-p/ingest_734_*/*~hmac=146075cc8e138382d3759ed569458f6d1ccd9acae660f3ee7b2482979e1443e5/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="VIDIO",MNCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924817~acl=/hls-p/ingest_870_*/*~hmac=e5b5d20fce0567fc2d37e00e6deeaa543588694aa329ac51b4b21ae69be0d10d/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-id="ksa.jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO",Jak TV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924826~acl=/hls-p/ingest_5415_*/*~hmac=11d7b2ad39892bd3795f97e4a653d99abcfe8f29fae4708eea5f286dbaf50b2d/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="VIDIO",GTV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924812~acl=/hls-p/ingest_778_*/*~hmac=8210eab3da25493689a49440b579e79843c6c4c4abf692e7f786a29b41fff299/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="VIDIO",NET.
+https://etslive-2-vidio-com.akamaized.net/exp=1615924572~acl=/hls-p/ingest_875_*/*~hmac=45c27d29c0bdf26434c2e4f411dc9ce461889d217eae8ba0687cb6ddf2e8dfea/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="VIDIO",iNews
+https://etslive-2-vidio-com.akamaized.net/exp=1615924808~acl=/hls-p/ingest_5409_*/*~hmac=9107d57a05df708582b1ea45dacc4e00b29a8875ed0b9caee0e3ff097eb5f0ec/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/oshop.png" group-title="VIDIO",O SHop
+https://etslive-2-vidio-com.akamaized.net/exp=1615924832~acl=/hls-p/ingest_6166_*/*~hmac=fcbbdf9a0d96d50ffbc45a4d04e46c88c2051f62482fcd57bff7ba5e1306707b/hls-p/ingest_6166_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="VIDIO",TVRI
+https://etslive-2-vidio-com.akamaized.net/exp=1615924832~acl=/hls-p/ingest_6441_*/*~hmac=5dc6c5d67cdac1c13dabc18bfc745c68771d738417efc4384e7f1094c39d1994/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="VIDIO",MYTV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924833~acl=/hls-p/ingest_6711_*/*~hmac=1eaa5205a563ac09ca0e82cb1ed3be12c41558e58f46e6b751e9534b8be8a15b/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="VIDIO",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="VIDIO",Nusantara TV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924830~acl=/hls-p/ingest_7432_*/*~hmac=21aa534460d152cf270e05f08c3d8e1a19ce329b7ef33072994b70334ed55ecd/hls-p/ingest_7432_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",DAAI TV
+https://etslive-2-vidio-com.akamaized.net/exp=1615924834~acl=/hls-p/ingest_6482_*/*~hmac=745e9021e058d246b4c0957351adfe9783a049ffb51bbc29e30154d4b879cf03/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/vidioentertainment.png" group-title="VIDIO",Vidio Entertainment
+https://etslive-2-vidio-com.akamaized.net/exp=1615924835~acl=/hls-p/ingest_7352_*/*~hmac=f6d7737d9222a648ef421e655f7863969058ee8e95f9d789e41b435ff009a9b0/hls-p/ingest_7352_720p/index.m3u8
+#EXTINF:-1 tvg-id="ksa.dw" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="VIDIO",DW English
+https://etslive-2-vidio-com.akamaized.net/exp=1615924836~acl=/hls-p/ingest_5075_*/*~hmac=94eb4a831e16da7541d5883c17503e2a9c5c63c6d307ee3e952f35cb97f4930a/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="VIDIO",TV Edukasi
+https://etslive-2-vidio-com.akamaized.net/exp=1615924836~acl=/hls-p/ingest_6838_*/*~hmac=48c746deab61aabe7f45aa6f6b9bea9bd718eb415ab4971f8d173db52db99ab6/hls-p/ingest_6838_720p/index.m3u8
 #EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="VIDIO",RTV
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uefavidio.png" group-title="VIDIO",UEFA Road to Victory - Vidio Sport
-https://etslive-2-vidio-com.akamaized.net/exp=1615557742~acl=/hls-p/ingest_10005_*/*~hmac=93be9e109c7eba966a72a7d7356ae73e86c9e957c4c2e324bf9fa662dcd607cd/hls-p/ingest_10005_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1615924839~acl=/hls-p/ingest_10005_*/*~hmac=fd22766b9b3c034c317103139d0886de1271d222d64cef32354ed8489621667e/hls-p/ingest_10005_720p/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="Lokal", Ruang Trampil
-https://cdngb196.useetv.com/joss/15/useeinfo/chunklist_w30292031_b1344100_sleng_kamiselaluada.m3u8?enc=UMCbgOxH_saUed8c_4_U9g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554000
+https://cdn14jtedge.useetv.com/joss/15/useeinfo/chunklist_w383979992_b1344100_sleng_kamiselaluada.m3u8?enc=6uKzKC1HdLzOivPLwOXYRA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921201
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Lokal", Usee Photo
-https://cdngb196.useetv.com/joss/15/useephoto/chunklist_w1851315914_b1344100_sleng_kamiselaluada.m3u8?enc=waH5VB7NfZcW1h5n1ssCwQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554001
+https://cdn14jtedge.useetv.com/joss/15/useephoto/chunklist_w745989465_b1344100_sleng_kamiselaluada.m3u8?enc=fITZuWGKa1Rvw5eX0jwemQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921201
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Lokal", UseePrime
-https://cdngb196.useetv.com/joss/15/useeprime/chunklist_w368173016_b894100_sleng_kamiselaluada.m3u8?enc=WOmZPBJL57PfotlvUPCnQQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555925
+https://cdn14jtedge.useetv.com/joss/15/useeprime/chunklist_w1932566380_b894100_sleng_kamiselaluada.m3u8?enc=C0osQ9rM_6jbafOSyEgSog&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923128
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", TVRI
-https://cdngb196.useetv.com/joss/15/tvri/chunklist_w1578443521_b684100_sleng_kamiselaluada.m3u8?enc=pGk72eVTXBKLOrnecCNKiw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554001
+https://cdn14jtedge.useetv.com/joss/15/bumperslate/chunklist_w476668092_b894100_sleng_kamiselaluada.m3u8?enc=GrIXrTftSTmHQvlZcLnp4w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923129
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", Indosiar
-https://cdngb196.useetv.com/joss/15/indosiar/chunklist_w1705379849_b684100_sleng_kamiselaluada.m3u8?enc=fmmJvhn3LER4TOgsWuYEtg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554002
+https://cdn14jtedge.useetv.com/joss/15/indosiar/chunklist_w505357571_b684100_sleng_kamiselaluada.m3u8?enc=ojvwnKynxRTRKQq41iRaxg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921213
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="Lokal", JITV
-https://cdngb196.useetv.com/joss/14/jitv/chunklist_w512049085_b684100_sleng_kamiselaluada.m3u8?enc=cegMVo-ullDUomd7MRVQQw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554002
+https://cdn14jtedge.useetv.com/joss/14/jitv/chunklist_w1749367834_b684100_sleng_kamiselaluada.m3u8?enc=LL_ZlME4Dg1fgvK0AXx-6A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921213
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", Kompas TV
-https://cdngb196.useetv.com/joss/15/kompastv/chunklist_w1888526356_b684100_sleng_kamiselaluada.m3u8?enc=zyo5VgOWgVfIxPC-Xm3qVQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554002
+https://cdn14jtedge.useetv.com/joss/15/kompastv/chunklist_w636188775_b684100_sleng_kamiselaluada.m3u8?enc=aLhLRgH6oHPe6ofryVpEEg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921214
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", Net.
-https://cdngb196.useetv.com/joss/15/bumperslate/chunklist_w861507720_b894100_sleng_kamiselaluada.m3u8?enc=srn-3GJK7Xl22xhG6qWSEA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554002
+https://cdn14jtedge.useetv.com/joss/15/net/chunklist_w1586353365_b1344100_sleng_kamiselaluada.m3u8?enc=-VMn9EGG2VaAsZPbvrj1zg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923139
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", Rajawali TV
-https://cdngb196.useetv.com/joss/14/rtv/chunklist_w787149994_b684100_sleng_kamiselaluada.m3u8?enc=QZxLmlFadr-Em7FHKiSxOA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554003
+https://cdn14jtedge.useetv.com/joss/14/rtv/chunklist_w1168021523_b684100_sleng_kamiselaluada.m3u8?enc=oJg05YYa6OFrt47gaWdwrQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923139
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="Lokal", RRI NET
-https://cdngb196.useetv.com/joss/14/rrinet/chunklist_w1877063607_b684100_sleng_kamiselaluada.m3u8?enc=gk0jvpJ8n7BeATbCMXiJ7A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554003
+https://cdn14jtedge.useetv.com/joss/14/rrinet/chunklist_w1118942994_b684100_sleng_kamiselaluada.m3u8?enc=yts2WqTbhBHNsRLLPuOltw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921215
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", SCTV
-https://cdngb196.useetv.com/joss/15/sctv/chunklist_w1819891391_b1344100_sleng_kamiselaluada.m3u8?enc=6LBNiTulpvwQTv9ACopT_w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555928
+https://cdn14jtedge.useetv.com/joss/15/sctv/chunklist_w1814505659_b1344100_sleng_kamiselaluada.m3u8?enc=S-bRHDj_w48m8wWEDbmnhA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921215
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", Trans 7
-https://cdngb196.useetv.com/joss/15/trans7/chunklist_w1729345442_b1344100_sleng_kamiselaluada.m3u8?enc=sV5dIy_COzNH7-nEI89STg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554003
+https://cdn14jtedge.useetv.com/joss/15/trans7/chunklist_w71147966_b1344100_sleng_kamiselaluada.m3u8?enc=MC-g_AY2q_RaNNdPif0cwA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921216
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", Trans TV
-https://cdngb196.useetv.com/joss/15/transtv/chunklist_w530046475_b1344100_sleng_kamiselaluada.m3u8?enc=psSnR9p1GbFMvKBRuMYR3w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554004
+https://cdn14jtedge.useetv.com/joss/15/transtv/chunklist_w1556825114_b1344100_sleng_kamiselaluada.m3u8?enc=Hll2QdQMncMPszpw0jk_0g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923140
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antara.png" group-title="Lokal", Antara
-https://cdngb196.useetv.com/joss/14/antara/chunklist_w1640575605_b684100_sleng_kamiselaluada.m3u8?enc=EFKtgQvG3N1HhmNcgtDadA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554004
+https://cdn14jtedge.useetv.com/joss/130/antara/chunklist_w1618543487_b894100_sleng_kamiselaluada.m3u8?enc=IYl7383HjMcH0axOVUJC6A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921216
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="Lokal", Bali TV
-https://cdngb196.useetv.com/joss/14/balitv/chunklist_w462906179_b684100_sleng_kamiselaluada.m3u8?enc=tB5ElBbq2-ZgnmZ5n1_HUg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554004
+https://cdn14jtedge.useetv.com/joss/14/balitv/chunklist_w1613515875_b684100_sleng_kamiselaluada.m3u8?enc=-mIxiSOCH2jNuD6TfWPh_w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921216
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal", Berita Satu
-https://cdngb196.useetv.com/joss/14/beritasatu/chunklist_w1312318483_b684100_sleng_kamiselaluada.m3u8?enc=lDTT2oueX9zuuc9Cin-19w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554005
+https://cdn14jtedge.useetv.com/joss/14/beritasatu/chunklist_w1027163278_b684100_sleng_kamiselaluada.m3u8?enc=0CpIe7RRvTHBxQyq4f_wGw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921216
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", Jak TV
-https://cdngb196.useetv.com/joss/14/jaktv/chunklist_w2145049907_b684100_sleng_kamiselaluada.m3u8?enc=Ah5pl70YefXlU-OI8ZgHXA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554005
+https://cdn14jtedge.useetv.com/joss/14/jaktv/chunklist_w78048727_b684100_sleng_kamiselaluada.m3u8?enc=6AlNf0Pq1X4Yr9SB9Uh4cA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923142
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", JTV
-https://cdngb196.useetv.com/joss/14/jtv/chunklist_w740145986_b684100_sleng_kamiselaluada.m3u8?enc=8fh55yZiQjYGxvcRQNAjCA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554005
+https://cdn14jtedge.useetv.com/joss/14/jtv/chunklist_w447902878_b684100_sleng_kamiselaluada.m3u8?enc=lhjmN0Tq2kwRPmTAiDzTfQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921218
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="Lokal", TV Edukasi
-https://cdngb196.useetv.com/joss/14/tvedukasi/chunklist_w486792323_b684100_sleng_kamiselaluada.m3u8?enc=FLTqu1oLMl0VI3dBrePb1w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554005
+https://cdn14jtedge.useetv.com/joss/14/tvedukasi/chunklist_w1537177115_b684100_sleng_kamiselaluada.m3u8?enc=dRtDz0GsKUM1IPbGo16zqw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921218
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal", Daai TV
-https://cdngb196.useetv.com/joss/14/daaitv/chunklist_w1421712469_b684100_sleng_kamiselaluada.m3u8?enc=91AIYnPreenuYfmI_xZ28A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554006
+https://cdn14jtedge.useetv.com/joss/14/daaitv/chunklist_w2011583497_b684100_sleng_kamiselaluada.m3u8?enc=YigyTzcuP4WoJCgnd9tRUA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921218
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/insert.png" group-title="Lokal", Insert
-https://cdngb196.useetv.com/joss/14/insert/chunklist_w1487870275_b684100_sleng_kamiselaluada.m3u8?enc=9OqYY5jc9GsNSrBWWahnKA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555930
+https://cdn14jtedge.useetv.com/joss/14/insert/chunklist_w955927522_b684100_sleng_kamiselaluada.m3u8?enc=4BqMPOu2NJ63_a1EuNZu_A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921219
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="Lokal", NusantaraTV
-https://cdngb196.useetv.com/joss/194/nusantaratv/chunklist_w1085385725_b894100_sleng_kamiselaluada.m3u8?enc=Vd9cMokAkp5SzkMO9IiCHg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554006
+https://cdn14jtedge.useetv.com/joss/194/nusantaratv/chunklist_w1716069265_b894100_sleng_kamiselaluada.m3u8?enc=DgrrnMUg6yO_y5alG8OqeQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921219
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", beIN Sport 1
-https://cdngb196.useetv.com/joss/15/bein1/chunklist_w909872721_b1344100_sleng_kamiselaluada.m3u8?enc=5RHx_lNH8kq5TRmxlju8XA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555931
+https://cdn14jtedge.useetv.com/joss/15/bein1/chunklist_w1121951663_b1344100_sleng_kamiselaluada.m3u8?enc=RYeDb4x6lk21LJwB0fiysg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921219
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports2.png" group-title="Sports", beIN Sport 2
-https://cdngb196.useetv.com/joss/15/bein2/chunklist_w1443602935_b1344100_sleng_kamiselaluada.m3u8?enc=4xZ_A-j55lx3Awo8Fdeepg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554007
+https://cdn14jtedge.useetv.com/joss/15/bein2/chunklist_w1273255713_b1344100_sleng_kamiselaluada.m3u8?enc=2qCipwNkiTAi6KKtxELUlw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-id="nbatv" tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports", NBA
-https://cdngb196.useetv.com/joss/15/nba/chunklist_w1247517151_b1344100_sleng_kamiselaluada.m3u8?enc=AZzFD-QeWJD2A0zjTgYp4w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554007
+https://cdn14jtedge.useetv.com/joss/15/nba/chunklist_w484738834_b1344100_sleng_kamiselaluada.m3u8?enc=zPGwWQzM7_AlWXqfHIYHmw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921219
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sports", Champion TV 1
-https://cdngb196.useetv.com/joss/15/champion1/chunklist_w136949841_b1344100_sleng_kamiselaluada.m3u8?enc=ccGFdKRXlStdvKEghhHiSA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555932
+https://cdn14jtedge.useetv.com/joss/15/champion1/chunklist_w2123773730_b1344100_sleng_kamiselaluada.m3u8?enc=JmJh4V0PHWqfzRSE_tri1A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sports", Champion TV 2
-https://cdngb196.useetv.com/joss/15/champion2/chunklist_w1933936791_b1344100_sleng_kamiselaluada.m3u8?enc=plqwM1GAlCngUJ3Xy46uHw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554008
+https://cdn14jtedge.useetv.com/joss/15/champion2/chunklist_w393081257_b1344100_sleng_kamiselaluada.m3u8?enc=GhQvQMJtqqBauiNgWmrdsQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", Fox Sport 1
-https://cdngb196.useetv.com/joss/15/foxsport1/chunklist_w1606233153_b1344100_sleng_kamiselaluada.m3u8?enc=pXCWAJFC6aLfiglqNGzi5w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554008
+https://cdn14jtedge.useetv.com/joss/15/foxsport1/chunklist_w39149715_b1344100_sleng_kamiselaluada.m3u8?enc=5_tYoWku7tilljJRFTmxSw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" group-title="Sports", Fox Sport 2
-https://cdngb196.useetv.com/joss/15/foxsport2/chunklist_w339410692_b1344100_sleng_kamiselaluada.m3u8?enc=0an95ZyriJomsoKzq12Enw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554008
+https://cdn14jtedge.useetv.com/joss/15/foxsport2/chunklist_w629293366_b1344100_sleng_kamiselaluada.m3u8?enc=LHHXdRxSIFNu938Q7jgWCA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" group-title="Sports", Fox Sport 3
-https://cdngb196.useetv.com/joss/15/foxsport3/chunklist_w63917745_b1344100_sleng_kamiselaluada.m3u8?enc=CWFdtCWE6uNMaJc1ZEzr8g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554008
+https://cdn14jtedge.useetv.com/joss/15/foxsport3/chunklist_w272109433_b1344100_sleng_kamiselaluada.m3u8?enc=Cj0_mSBYCTuIKcx8HWRczw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923145
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/golf.png" group-title="Sports", Golf
-https://cdngb196.useetv.com/joss/15/golfplus/chunklist_w1255202247_b1344100_sleng_kamiselaluada.m3u8?enc=6o0JdM-mUqP68xFXKhiOxQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555933
+https://cdn14jtedge.useetv.com/joss/15/golfplus/chunklist_w609534343_b1344100_sleng_kamiselaluada.m3u8?enc=HtlYo1D7OGL21tL5z_K7wg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921221
 #EXTINF:-1 tvg-id="useesport" tvg-logo="http://kamiselaluada.com/img/useesports1.png" group-title="Sports", Useesports 1
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1345674491_b1344100_sleng_kamiselaluada.m3u8?enc=Dru8cphZiKtaDvkeGn_TZQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554009
+https://cdn14jtedge.useetv.com/joss/15/useesport/chunklist_w2073329434_b1344100_sleng_kamiselaluada.m3u8?enc=JWgnnTubWe6tmqGBulm1lQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921221
 #EXTINF:-1 tvg-id="useesports2" tvg-logo="http://kamiselaluada.com/img/useesports2.png" group-title="Sports", Useesports 2
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1630165062_b1344100_sleng_kamiselaluada.m3u8?enc=16q6x4n50j0BNDBhqEoeTA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554009
+https://cdn14jtedge.useetv.com/joss/15/useesports2/chunklist_w581798274_b1344100_sleng_kamiselaluada.m3u8?enc=a0SSSPdded4_6ca1IIBFfQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923146
 #EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Sports", eGG TV
-https://cdngb196.useetv.com/joss/14/egg/chunklist_w1153403812_b684100_sleng_kamiselaluada.m3u8?enc=SjcepHMs-eLfSHSL8Ti0-w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555937
+https://cdn14jtedge.useetv.com/joss/14/egg/chunklist_w1459919423_b684100_sleng_kamiselaluada.m3u8?enc=qtswyRzdlLlRJbYpXMTkqw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="News", SEA TODAY
-https://cdngb196.useetv.com/joss/15/seatoday/chunklist_w2063447397_b1344100_sleng_kamiselaluada.m3u8?enc=n8PTFJRBhxu0qSyE--yaDg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555935
+https://cdn14jtedge.useetv.com/joss/15/seatoday/chunklist_w1636631867_b1344100_sleng_kamiselaluada.m3u8?enc=AdkHIisyt1S97ydbn3kBHw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921222
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="News", Metro TV
-https://cdngb196.useetv.com/joss/15/metrotv/chunklist_w1522216610_b1344100_sleng_kamiselaluada.m3u8?enc=BlCxsdzaq8hirISvqi73_g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554011
+https://cdn14jtedge.useetv.com/joss/15/metrotv/chunklist_w579651973_b1344100_sleng_kamiselaluada.m3u8?enc=ffDIU2HqXedTAkFWFKbMIQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923146
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="News", CNBC Indonesia
-https://cdngb196.useetv.com/joss/15/cnbcindonesia/chunklist_w1407566593_b1344100_sleng_kamiselaluada.m3u8?enc=tI7whNDa_nNQzrdisQeL5Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554011
+https://cdn14jtedge.useetv.com/joss/15/cnbcindonesia/chunklist_w719333786_b1344100_sleng_kamiselaluada.m3u8?enc=zzdTIkc960QFGPVZoBo6uw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921222
 #EXTINF:-1 tvg-id="cnbcasia" tvg-logo="http://kamiselaluada.com/img/cnbcasia.png" group-title="News", CNBC Asia
-https://cdngb196.useetv.com/joss/14/cnbcasia/chunklist_w1992247832_b894100_sleng_kamiselaluada.m3u8?enc=dVh8NTyPKjn17QuqBCc5bg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554011
+https://cdn14jtedge.useetv.com/joss/14/cnbcasia/chunklist_w2068890982_b894100_sleng_kamiselaluada.m3u8?enc=zpZcrmBghIEo-G7wBFH_Ww&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921222
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="News", Aljazeera
-https://cdngb196.useetv.com/joss/14/aljazeera/chunklist_w1696737359_b684100_sleng_kamiselaluada.m3u8?enc=9JYwOK2qU6qutWYyv7i7nQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554011
+https://cdn14jtedge.useetv.com/joss/14/aljazeera/chunklist_w281555904_b684100_sleng_kamiselaluada.m3u8?enc=s6zy8XSyy2kRk4QgEA9n5Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921223
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/idx.png" group-title="News", IDX
-https://cdngb196.useetv.com/joss/14/idx/chunklist_w1373397673_b684100_sleng_kamiselaluada.m3u8?enc=3tX0tj9p5Oqjucx6cr1aag&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555936
+https://cdn14jtedge.useetv.com/joss/14/idx/chunklist_w1715345252_b684100_sleng_kamiselaluada.m3u8?enc=3f2E403wwgoK3P-p_L17dg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921223
 #EXTINF:-1 tvg-id="ksa.dw" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="News", DW (English)
-https://cdngb196.useetv.com/joss/14/dwtv/chunklist_w1655354379_b684100_sleng_kamiselaluada.m3u8?enc=ArXywTq_WFXjF9j21yDyjQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554012
+https://cdn14jtedge.useetv.com/joss/14/dwtv/chunklist_w1344354060_b684100_sleng_kamiselaluada.m3u8?enc=-4hiAbBzQwgqy9MRhvoeaQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921223
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="News", France 24
-https://cdngb196.useetv.com/joss/14/france24/chunklist_w1198073049_b684100_sleng_kamiselaluada.m3u8?enc=E5-IH7mlt3JJGUjsTin2AA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555936
+https://cdn14jtedge.useetv.com/joss/14/france24/chunklist_w812629683_b684100_sleng_kamiselaluada.m3u8?enc=6EodoTWjrNILQRAFsQhKJg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="News", CNA
-https://cdngb196.useetv.com/joss/14/newsasia/chunklist_w1608678275_b684100_sleng_kamiselaluada.m3u8?enc=QyqddbApBMjnJLmH-4qqxg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555938
+https://cdn14jtedge.useetv.com/joss/14/newsasia/chunklist_w1804632793_b684100_sleng_kamiselaluada.m3u8?enc=wyzvxR17J0cHrhpLGjQsUw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="News", TRT World
-https://cdngb196.useetv.com/joss/14/trtworld/chunklist_w414965042_b894100_sleng_kamiselaluada.m3u8?enc=NZPfsB5zyyQyyDdnNXrHtg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554012
+https://cdn14jtedge.useetv.com/joss/14/trtworld/chunklist_w1893486884_b894100_sleng_kamiselaluada.m3u8?enc=9C834CwTw0tRN8rNcWOjkQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="News", CNN Indonesia
-https://cdngb196.useetv.com/joss/15/cnnindonesia/chunklist_w997197723_b1344100_sleng_kamiselaluada.m3u8?enc=jtyEzJTUMYRvcTaXH8fvdQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554013
+https://cdn14jtedge.useetv.com/joss/15/cnnindonesia/chunklist_w211621276_b1344100_sleng_kamiselaluada.m3u8?enc=VlvfdXflsLpe9VRnCGUAtQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnninternational.png" group-title="News", CNN International
-https://cdngb196.useetv.com/joss/15/cnninternational/chunklist_w1467957761_b1344100_sleng_kamiselaluada.m3u8?enc=8wQpwfxMzL_8sLbNajNpqQ&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615554019
+https://cdn14jtedge.useetv.com/joss/15/cnninternational/chunklist_w1096918293_b1344100_sleng_kamiselaluada.m3u8?enc=oudkW-LKDB66DkUi-vCS_g&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921227
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="News", Bloomberg
-https://cdngb196.useetv.com/joss/14/bloomberg/chunklist_w2131713746_b684100_sleng_kamiselaluada.m3u8?enc=kbrhnukd-UJUSRfLQO_q_w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554013
+https://cdn14jtedge.useetv.com/joss/14/bloomberg/chunklist_w510537174_b684100_sleng_kamiselaluada.m3u8?enc=uZKkZMCJGbfPlxS6FFGyYA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923149
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/euronews.png" group-title="News", EuroNews
-https://cdngb196.useetv.com/joss/14/euronews/chunklist_w621245907_b684100_sleng_kamiselaluada.m3u8?enc=jHrt7_lt1JXn2NM-7vDE9Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554014
+https://cdn14jtedge.useetv.com/joss/14/euronews/chunklist_w2011143463_b684100_sleng_kamiselaluada.m3u8?enc=ydXUf7B-ZvdgD7fSOl8vlw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 
 
 
 #EXTINF:-1 tvg-id="Zee" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Movies", ZBioskop
-https://cdngb196.useetv.com/joss/14/zbioskop/chunklist_w197717183_b684100_sleng_kamiselaluada.m3u8?enc=R9-zcJret9IJq-ITvG2U8w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554014
+https://cdn14jtedge.useetv.com/joss/14/zbioskop/chunklist_w2103732326_b684100_sleng_kamiselaluada.m3u8?enc=2G_Q7dYqTsBjJHFlhT1dhg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Movies", Thrill
-https://cdngb196.useetv.com/joss/14/thrill/chunklist_w2009902054_b684100_sleng_kamiselaluada.m3u8?enc=myB6Bryy8aFdevyDQQJA-Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554014
+https://cdn14jtedge.useetv.com/joss/14/thrill/chunklist_w2011334487_b684100_sleng_kamiselaluada.m3u8?enc=cXIxsFgtvgnB6NR_bDLqdw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvnmovies.png" group-title="Movies", TVN Movies
-https://cdngb196.useetv.com/joss/15/tvnmovies/chunklist_w2125971160_b1344100_sleng_kamiselaluada.m3u8?enc=FCB9uqzFU-laXKBu_npgIQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554015
+https://cdn14jtedge.useetv.com/joss/15/tvnmovies/chunklist_w569371723_b1344100_sleng_kamiselaluada.m3u8?enc=mmlYbsHt4qoL2nDYioVdeg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923150
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bioskopindo.png" group-title="Movies", Bioskop Indonesia
-https://cdngb196.useetv.com/joss/14/bioskopindonesia/chunklist_w669038107_b684100_sleng_kamiselaluada.m3u8?enc=61tTBy8S2mNtfNdw0qENXA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555939
+https://cdn14jtedge.useetv.com/joss/14/bioskopindonesia/chunklist_w2093401279_b684100_sleng_kamiselaluada.m3u8?enc=J-NL5VNJKiksXfpwCPvb2w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923150
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cm.png" group-title="Movies", Celestial Movie
-https://cdngb196.useetv.com/joss/14/celestialmovie/chunklist_w2034774583_b684100_sleng_kamiselaluada.m3u8?enc=3oMsCthhkaq5mspI1jnLqw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554015
+https://cdn14jtedge.useetv.com/joss/14/celestialmovie/chunklist_w1042519314_b684100_sleng_kamiselaluada.m3u8?enc=hhyi2IW_TgOEgE9GZpp-oQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921226
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cinemaworld.png" group-title="Movies", Cinema World
-https://cdngb196.useetv.com/joss/14/cinemaworld/chunklist_w265136912_b684100_sleng_kamiselaluada.m3u8?enc=f_guETHMQX9xZUVOcpuuxw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554015
+https://cdn14jtedge.useetv.com/joss/14/cinemaworld/chunklist_w674442327_b684100_sleng_kamiselaluada.m3u8?enc=rUasbwBxgwhFzXbgrgWXdQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921226
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/flik.png" group-title="Movies", Flik
-https://cdngb196.useetv.com/joss/15/flik/chunklist_w1467320757_b1344100_sleng_kamiselaluada.m3u8?enc=DGD6jW-zOhM48c7rMUW4xw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554016
+https://cdn14jtedge.useetv.com/joss/15/flik/chunklist_w211085713_b1344100_sleng_kamiselaluada.m3u8?enc=bMhUpGLsWm3hHk1R6qfwDQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923151
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/galaxypremium.png" group-title="Movies", Galaxy Premium
-https://cdngb196.useetv.com/joss/15/galaxypremium/chunklist_w1882185957_b684100_sleng_kamiselaluada.m3u8?enc=LVv_zElF1bW20ZiTsWyorQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555941
+https://cdn14jtedge.useetv.com/joss/15/galaxypremium/chunklist_w69771043_b684100_sleng_kamiselaluada.m3u8?enc=0H1jVBMEUkGr9VJKnnnL6A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923151
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/galaxy.png" group-title="Movies", Galaxy
-https://cdngb196.useetv.com/joss/15/galaxy/chunklist_w824115807_b684100_sleng_kamiselaluada.m3u8?enc=bVCdjDB9G14Yan-wGbiPhg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554017
+https://cdn14jtedge.useetv.com/joss/15/galaxy/chunklist_w1464838657_b684100_sleng_kamiselaluada.m3u8?enc=FrAqOnHgNGQe9CAxvw9OLQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921227
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/imc.png" group-title="Movies", IMC
-https://cdngb196.useetv.com/joss/14/imc/chunklist_w1665177411_b684100_sleng_kamiselaluada.m3u8?enc=oeQh4t_DUYKeYQjnOfDxRw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554018
+https://cdn14jtedge.useetv.com/joss/14/imc/chunklist_w1455536243_b684100_sleng_kamiselaluada.m3u8?enc=fqloIRZA3rIRuMKGoFx3ig&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921227
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ikonser.png" group-title="Music", iKONSER
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mtv.png" group-title="Music", MTV Live
-https://cdngb196.useetv.com/joss/15/mtvlive/chunklist_w1125911003_b1344100_sleng_kamiselaluada.m3u8?enc=gtfFcB91HZ4_FCIZPLr7PQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555925
+https://cdn14jtedge.useetv.com/joss/15/mtvlive/chunklist_w487027250_b1344100_sleng_kamiselaluada.m3u8?enc=S4JbFycB1PRLD28icuor3g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921200
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citradangdut.png" group-title="Music", Citra Dangdut
-https://cdngb196.useetv.com/joss/14/citradangdut/chunklist_w185696526_b684100_sleng_kamiselaluada.m3u8?enc=TmscFol_EoaL2nHaIwgHug&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554001
+https://cdn14jtedge.useetv.com/joss/14/citradangdut/chunklist_w1036007264_b684100_sleng_kamiselaluada.m3u8?enc=yUzGWg0nqA9qyZciGch0CA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921201
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/prambors.png" group-title="Music", Prambors
-https://cdngb196.useetv.com/joss/14/pramborstv/chunklist_w665073196_b684100_sleng_kamiselaluada.m3u8?enc=TcwfNLcSjgEwUhjdNRemew&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554001
+https://cdn14jtedge.useetv.com/joss/14/pramborstv/chunklist_w1811525943_b684100_sleng_kamiselaluada.m3u8?enc=foq-Wikj1cDyGe5Afq5CNg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921202
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/babyfirst.png" group-title="Kids", Baby First
-https://cdngb196.useetv.com/joss/14/babyfirst/chunklist_w91975134_b684100_sleng_kamiselaluada.m3u8?enc=0yitwJt0iLlToFeFlLGDrA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555926
+https://cdn14jtedge.useetv.com/joss/14/babyfirst/chunklist_w1843704171_b684100_sleng_kamiselaluada.m3u8?enc=dqWamzibf5O2jiFFPNaBrA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921203
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/horee.png" group-title="Kids", Horee
-https://cdngb196.useetv.com/joss/14/horee/chunklist_w1744198576_b684100_sleng_kamiselaluada.m3u8?enc=aY7dhxGSFTQVBw_G6q7vXg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554002
+https://cdn14jtedge.useetv.com/joss/14/horee/chunklist_w1153176265_b684100_sleng_kamiselaluada.m3u8?enc=txwzN0xupWUQlKxDMqYcTg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921203
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ducktv.png" group-title="Kids", Duck TV
-https://cdngb196.useetv.com/joss/14/ducktv/chunklist_w1608689865_b684100_sleng_kamiselaluada.m3u8?enc=PsbduOsEcnB2N0_kqJ9taw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554002
+https://cdn14jtedge.useetv.com/joss/14/ducktv/chunklist_w291908476_b684100_sleng_kamiselaluada.m3u8?enc=dS1J_PEteo9FgVMyhOGJKQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921203
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/boomerang.png" group-title="Kids", Boomerang
-https://cdngb196.useetv.com/joss/14/boomerang/chunklist_w1734378404_b684100_sleng_kamiselaluada.m3u8?enc=yUkwaO_lj25-iGUiJgILNw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554002
+https://cdn14jtedge.useetv.com/joss/14/boomerang/chunklist_w40932880_b684100_sleng_kamiselaluada.m3u8?enc=cEfVne_u0dJrX6ORbxtWmw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921204
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cartoonnetwork.png" group-title="Kids", Cartoon Network
-https://cdngb196.useetv.com/joss/14/cartoonnetwork/chunklist_w258788939_b684100_sleng_kamiselaluada.m3u8?enc=UJguvqkOts220skvNb9Ogw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554003
+https://cdn14jtedge.useetv.com/joss/14/cartoonnetwork/chunklist_w1619544470_b684100_sleng_kamiselaluada.m3u8?enc=CtWcglDxQ9uoDb8wZXhGLg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921204
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/duniaanak.png" group-title="Kids", Dunia Anak
-https://cdngb196.useetv.com/joss/14/duniaanak/chunklist_w229264095_b684100_sleng_kamiselaluada.m3u8?enc=vrd_BZar204z1pUWZc65mw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554003
+https://cdn14jtedge.useetv.com/joss/14/duniaanak/chunklist_w1714654562_b684100_sleng_kamiselaluada.m3u8?enc=-UmZMbJhbdwKl4uWwnHaLA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923133
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nickjr.png" group-title="Kids", Nick Junior
-https://cdngb196.useetv.com/joss/14/nickjr/chunklist_w604327883_b684100_sleng_kamiselaluada.m3u8?enc=KMR-u6NEo_aD2u1WG5rP8w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554003
+https://cdn14jtedge.useetv.com/joss/14/nickjr/chunklist_w927541555_b684100_sleng_kamiselaluada.m3u8?enc=HEvMf4wOeiFEBecQG2I51g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921209
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nickelodeon.png" group-title="Kids", Nickelodeon
-https://cdngb196.useetv.com/joss/14/nickelodeon/chunklist_w1062256849_b684100_sleng_kamiselaluada.m3u8?enc=tluhGAN4E9bURVK00g2S9Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554004
+https://cdn14jtedge.useetv.com/joss/14/nickelodeon/chunklist_w1354994672_b684100_sleng_kamiselaluada.m3u8?enc=dVJ0BSEdFSsUXBUSQ7Up7Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921213
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/davincilearning.png" group-title="Kids", Da Vinci Learning
-https://cdngb196.useetv.com/joss/14/davinci/chunklist_w170816719_b684100_sleng_kamiselaluada.m3u8?enc=b9MmawsE7xdhx5y0YmJhqQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555928
+https://cdn14jtedge.useetv.com/joss/14/davinci/chunklist_w1927806037_b684100_sleng_kamiselaluada.m3u8?enc=JshSq_gUYjbsKULK2qWMGw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921214
 #EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", M Kidz
-https://cdngb196.useetv.com/joss/14/mykids/chunklist_w1630341135_b894100_sleng_kamiselaluada.m3u8?enc=YDJFd6ywqM-Ig5DOZ6ODNg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555929
+https://cdn14jtedge.useetv.com/joss/14/mykids/chunklist_w1891417038_b894100_sleng_kamiselaluada.m3u8?enc=Szv5Lur84TdVbc8wkExJxg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923138
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dreamworks.png" group-title="Kids", Dreamworks
-https://cdngb196.useetv.com/joss/15/dreamworks/chunklist_w188027036_b1344100_sleng_kamiselaluada.m3u8?enc=4QXzJTzyxYpHITPadC_auQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555929
+https://cdn14jtedge.useetv.com/joss/15/dreamworks/chunklist_w1580489523_b1344100_sleng_kamiselaluada.m3u8?enc=lCgfbMuCqYM-5Pos3Mvzlw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923138
 
 
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic
-https://cdngb196.useetv.com/joss/15/natgeo/chunklist_w698269759_b1344100_sleng_kamiselaluada.m3u8?enc=rovovgXeMmADhaIM19AANA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554005
+https://cdn14jtedge.useetv.com/joss/15/natgeo/chunklist_w1348028104_b1344100_sleng_kamiselaluada.m3u8?enc=3S_ZREbxmfPVrzeU7BrXSw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921215
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
-https://cdngb196.useetv.com/joss/15/natgeopeople/chunklist_w416811560_b1344100_sleng_kamiselaluada.m3u8?enc=YufjVGIt4MgfnX5tyCzv0w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555929
+https://cdn14jtedge.useetv.com/joss/15/natgeopeople/chunklist_w72697191_b1344100_sleng_kamiselaluada.m3u8?enc=6-ZJZTUceOKf802hCKrl1w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921215
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
-https://cdngb196.useetv.com/joss/15/natgeowild/chunklist_w810273951_b1344100_sleng_kamiselaluada.m3u8?enc=ZhgSyLjrau6cuVYqYBXJVQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554005
+https://cdn14jtedge.useetv.com/joss/15/natgeowild/chunklist_w37448533_b1344100_sleng_kamiselaluada.m3u8?enc=9e9JFtw7MuY6TObvlNQMDQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923139
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="Knowledge", Discovery Channel
-https://cdngb196.useetv.com/joss/15/disco/chunklist_w1515236218_b1344100_sleng_kamiselaluada.m3u8?enc=nXrh0IxQGUUE2asZTfs_rQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554006
+https://cdn14jtedge.useetv.com/joss/15/disco/chunklist_w166334760_b1344100_sleng_kamiselaluada.m3u8?enc=Zj1o7P40TUxem6fjD6IucA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921216
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/crimeinvestigation.png" group-title="Knowledge", Crime Investigation
-https://cdngb196.useetv.com/joss/15/crimeinvestigation/chunklist_w2103069754_b684100_sleng_kamiselaluada.m3u8?enc=6HFoy2qD4BLQYricOXrnzg&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615555944
+https://cdn14jtedge.useetv.com/joss/15/crimeinvestigation/chunklist_w1999507379_b684100_sleng_kamiselaluada.m3u8?enc=bm9Orof3e64uPfWhwlANUg&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921227
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtndoc.png" group-title="Knowledge", CGTN Documentary
-https://cdngb196.useetv.com/joss/14/cgtndocumentary/chunklist_w94639762_b684100_sleng_kamiselaluada.m3u8?enc=ghViqFWniY0a1xdX4dTX4Q&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615554019
+https://cdn14jtedge.useetv.com/joss/14/cgtndocumentary/chunklist_w2071547957_b684100_sleng_kamiselaluada.m3u8?enc=r9stMMAZ3nns8IQd3IaLgw&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921227
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/lingua.png" group-title="Knowledge", Lingua
-https://cdngb196.useetv.com/joss/15/lingua/chunklist_w429408588_b684100_sleng_kamiselaluada.m3u8?enc=jE2xps50BuDdhhO-T8z66Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554006
+https://cdn14jtedge.useetv.com/joss/15/lingua/chunklist_w751122065_b684100_sleng_kamiselaluada.m3u8?enc=UX_JBDlP17U4AvPT-Kq0UA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921216
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indishoping.png" group-title="Lifestyle", Indihome Shopping
-https://cdngb196.useetv.com/joss/14/indishopping/chunklist_w593559849_b894100_sleng_kamiselaluada.m3u8?enc=hd8NrWGeueZ2TppgB142yQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555931
+https://cdn14jtedge.useetv.com/joss/14/indishopping/chunklist_w1826284228_b894100_sleng_kamiselaluada.m3u8?enc=YbM4QyYY9ctkmmPwoRHP3A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921216
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mshop.png" group-title="Lifestyle", M Shop
-https://cdngb196.useetv.com/joss/14/mncshop/chunklist_w1239131769_b684100_sleng_kamiselaluada.m3u8?enc=uWs89xUXhSf9OibsXWmr7A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555931
+https://cdn14jtedge.useetv.com/joss/14/mncshop/chunklist_w835178641_b684100_sleng_kamiselaluada.m3u8?enc=tncDWVsHMuAjj7oKFN_t2Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923141
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/eatgo.png" group-title="Lifestyle", Eat & Go
-https://cdngb196.useetv.com/joss/14/eatgo/chunklist_w658467021_b684100_sleng_kamiselaluada.m3u8?enc=93mjGKs_TmoJZ5cGuA-7MA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554007
+https://cdn14jtedge.useetv.com/joss/14/eatgo/chunklist_w1132805777_b684100_sleng_kamiselaluada.m3u8?enc=f5SFkpkCv7LzWGkaRrMK6g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921217
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hgtv.png" group-title="Lifestyle", HGTV
-https://cdngb196.useetv.com/joss/15/hgtv/chunklist_w950414447_b1344100_sleng_kamiselaluada.m3u8?enc=TZyCrQBVBB5570pPU6yjcg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554007
+https://cdn14jtedge.useetv.com/joss/15/hgtv/chunklist_w1543621852_b1344100_sleng_kamiselaluada.m3u8?enc=CjICMtaPUMBNGqRfwlTAAw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921217
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/afn.png" group-title="Lifestyle", Asian Food Network
-https://cdngb196.useetv.com/joss/15/afc/chunklist_w1883599581_b1344100_sleng_kamiselaluada.m3u8?enc=ZBwvqqWbCBPA9wUPlB5kRw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554008
+https://cdn14jtedge.useetv.com/joss/15/afc/chunklist_w815492840_b1344100_sleng_kamiselaluada.m3u8?enc=q8DutUAC5YZeme6fX9B5nw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921217
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", AXN
-https://cdngb196.useetv.com/joss/15/axn/chunklist_w736320740_b1344100_sleng_kamiselaluada.m3u8?enc=3Et5k7kfXKesmAOUxisTCw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554009
+https://cdn14jtedge.useetv.com/joss/15/axn/chunklist_w1400922363_b1344100_sleng_kamiselaluada.m3u8?enc=oZT_qecWsdQnlTXeGA5STw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921219
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citradrama.png" group-title="Entertainment", Citra Drama
-https://cdngb196.useetv.com/joss/14/cdrama/chunklist_w1107798739_b684100_sleng_kamiselaluada.m3u8?enc=cXt0pRAxuPCfD8Kj4WRFJQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554008
+https://cdn14jtedge.useetv.com/joss/14/cdrama/chunklist_w670669629_b684100_sleng_kamiselaluada.m3u8?enc=5LBYbSv3njrvb0RiPcMmsg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921217
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dunialain.png" group-title="Entertainment", Dunia Lain
-https://cdngb196.useetv.com/joss/14/dunialain/chunklist_w18108133_b684100_sleng_kamiselaluada.m3u8?enc=_miiWFs3cS-QoR-F4BAO2Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555932
+https://cdn14jtedge.useetv.com/joss/14/dunialain/chunklist_w817447300_b684100_sleng_kamiselaluada.m3u8?enc=IseC_D14UHFf-0ARKvuEJA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921218
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="Entertainment", Arirang
-https://cdngb196.useetv.com/joss/14/arirang/chunklist_w537284148_b684100_sleng_kamiselaluada.m3u8?enc=LdPO5a6wKS4YavPt86sHNA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554008
+https://cdn14jtedge.useetv.com/joss/14/arirang/chunklist_w1489550464_b684100_sleng_kamiselaluada.m3u8?enc=CsZHEiwk0ePmycrfVJ0vcw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921218
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Entertainment", Animax
-https://cdngb196.useetv.com/joss/14/animax/chunklist_w1685312300_b684100_sleng_kamiselaluada.m3u8?enc=N_hAmNj---iHBhpp3IzKKA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554009
+https://cdn14jtedge.useetv.com/joss/14/animax/chunklist_w1466272212_b684100_sleng_kamiselaluada.m3u8?enc=Koh3kzKPr14BILfjukov7w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921218
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Entertainment", TVN
-https://cdngb196.useetv.com/joss/15/tvn/chunklist_w1918019080_b1344100_sleng_kamiselaluada.m3u8?enc=MVQvfh4IKHBeHrLE_5CUag&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554009
+https://cdn14jtedge.useetv.com/joss/15/tvn/chunklist_w357882341_b1344100_sleng_kamiselaluada.m3u8?enc=nBnkvNJX4VlJexYXoAn94Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921219
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kbsworld.png" group-title="Entertainment", KBS World
-https://cdngb196.useetv.com/joss/15/kbsworld/chunklist_w1785987401_b1344100_sleng_kamiselaluada.m3u8?enc=AqFWpT1uGRD75O9meAQBlg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615555934
+https://cdn14jtedge.useetv.com/joss/15/kbsworld/chunklist_w589490361_b1344100_sleng_kamiselaluada.m3u8?enc=3ATnqLNLnTDPGT55bkfmDQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923143
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Entertainment", Blue Ant
-https://cdngb196.useetv.com/joss/14/blueant/chunklist_w178764315_b684100_sleng_kamiselaluada.m3u8?enc=HEb3sN7PUpt7IJtXKn3jkQ&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615555943
+https://cdn14jtedge.useetv.com/joss/14/blueant/chunklist_w44451274_b684100_sleng_kamiselaluada.m3u8?enc=jGIZUw7cHX4-zWRhQnVfjg&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921226
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Entertainment", Blue Ant Extreme
-https://cdngb196.useetv.com/joss/14/blueantextreme/chunklist_w1524883343_b684100_sleng_kamiselaluada.m3u8?enc=-zxm0wx6sCqSzvDL9kQaIw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554010
+https://cdn14jtedge.useetv.com/joss/14/blueantextreme/chunklist_w234959041_b684100_sleng_kamiselaluada.m3u8?enc=wmqXI77hTqpwV2c07RMsSQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921219
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/abcaustralia.png" group-title="Entertainment", ABC Australia
-https://cdngb196.useetv.com/joss/15/abcaustralia/chunklist_w605182959_b684100_sleng_kamiselaluada.m3u8?enc=Tpuj8O4IpCQ5fEio2v7Fzw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554010
+https://cdn14jtedge.useetv.com/joss/15/abcaustralia/chunklist_w297827749_b684100_sleng_kamiselaluada.m3u8?enc=rwS9fMcuVDjbVnGQnjQuCw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nhkworldpremium.png" group-title="Entertainment", NHK World Premium
-https://cdngb196.useetv.com/joss/15/nhkpremium/chunklist_w1967029248_b1344100_sleng_kamiselaluada.m3u8?enc=Wascq7EOms8pS1pwVYmK9g&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615554018
+https://cdn14jtedge.useetv.com/joss/15/nhkpremium/chunklist_w2058057309_b1344100_sleng_kamiselaluada.m3u8?enc=-r9j5wOJts7-hNfzBgY-0w&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921226
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/chinesedrama.png" group-title="Entertainment", Chinese Drama
-https://cdngb196.useetv.com/joss/14/chinesedrama/chunklist_w335598611_b684100_sleng_kamiselaluada.m3u8?enc=VEDDqNoIYdPyRI6iwR2yYQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554010
+https://cdn14jtedge.useetv.com/joss/14/chinesedrama/chunklist_w179955248_b684100_sleng_kamiselaluada.m3u8?enc=vndytfO_KhkCKGR6tcevGA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923144
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/lifetime.png" group-title="Entertainment", Lifetime
-https://cdngb196.useetv.com/joss/14/lifetime/chunklist_w1127208529_b684100_sleng_kamiselaluada.m3u8?enc=MmSsslze4YjYHNw-xzoPgw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554010
+https://cdn14jtedge.useetv.com/joss/14/lifetime/chunklist_w1582682443_b684100_sleng_kamiselaluada.m3u8?enc=kDZIItDkssJzdploawSknw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Entertainment", History
-https://cdngb196.useetv.com/joss/15/history/chunklist_w1596199049_b1344100_sleng_kamiselaluada.m3u8?enc=97pqWhqPLlcpsrBuhO0AMQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554010
+https://cdn14jtedge.useetv.com/joss/15/history/chunklist_w2114255941_b1344100_sleng_kamiselaluada.m3u8?enc=yjB1veCAz0zQ_HKdXarAtg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921220
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix
-https://cdngb196.useetv.com/joss/15/kix/chunklist_w1242573686_b1344100_sleng_kamiselaluada.m3u8?enc=QrkhPHORBiJDxfY4JriNTw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554011
+https://cdn14jtedge.useetv.com/joss/15/kix/chunklist_w682099376_b1344100_sleng_kamiselaluada.m3u8?enc=PRz6ogTAhSInbOWomZsqnA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923145
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/wakuwaku.png" group-title="Entertainment", Waku Waku Japan
-https://cdngb196.useetv.com/joss/15/wakuwaku/chunklist_w1889258831_b1344100_sleng_kamiselaluada.m3u8?enc=_scXWPXisoFBZpAuAaK0OQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554011
+https://cdn14jtedge.useetv.com/joss/15/wakuwaku/chunklist_w392658185_b1344100_sleng_kamiselaluada.m3u8?enc=Xzy32G7qOhIWM2w7Ncvdfg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923145
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", Warner
-https://cdngb196.useetv.com/joss/15/warner/chunklist_w150066570_b1344100_sleng_kamiselaluada.m3u8?enc=nwEvcGLNLPb9SQD_DlcfAg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554011
+https://cdn14jtedge.useetv.com/joss/15/warner/chunklist_w879449946_b1344100_sleng_kamiselaluada.m3u8?enc=QMqYHPmfwvom760g2zvH2w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921221
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Entertainment", Aniplus
-https://cdngb196.useetv.com/joss/14/aniplus/chunklist_w1011159383_b684100_sleng_kamiselaluada.m3u8?enc=MfV71E3mJDEuKoOxYgy2ug&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554012
+https://cdn14jtedge.useetv.com/joss/14/aniplus/chunklist_w1171278866_b684100_sleng_kamiselaluada.m3u8?enc=syfdq0I7sWJ0pBef05l54Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921222
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cctv4.png" group-title="Entertainment", CCTV4
-https://cdngb196.useetv.com/joss/14/cctv4/chunklist_w1013882211_b684100_sleng_kamiselaluada.m3u8?enc=SZqGEbUtBOC7ab7by4nWAw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554012
+https://cdn14jtedge.useetv.com/joss/14/cctv4/chunklist_w288714385_b684100_sleng_kamiselaluada.m3u8?enc=JFtVUAsWrDnTsV7ZccPoDA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921222
 #EXTINF:-1 tvg-id="ksa.nhkworld" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="Entertainment", NHK World Japan
-https://cdngb196.useetv.com/joss/14/nhkworld/chunklist_w1357221994_b684100_sleng_kamiselaluada.m3u8?enc=s4Omzwbkm7s6dWMTmVnnOw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554012
+https://cdn14jtedge.useetv.com/joss/14/nhkworld/chunklist_w747564469_b684100_sleng_kamiselaluada.m3u8?enc=FBSxQ3if0ZnW6_dY09RMuA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921222
 #EXTINF:-1 tvg-id="sgem" tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Entertainment", Sony GEM TV
-https://cdngb196.useetv.com/joss/15/sgem/chunklist_w232213253_b684100_sleng_kamiselaluada.m3u8?enc=dju5rxcE9yLSuWPA77nTMw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554013
+https://cdn14jtedge.useetv.com/joss/15/sgem/chunklist_w632366927_b684100_sleng_kamiselaluada.m3u8?enc=awEhkh1QwIzLUV_bmvdrdg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921223
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment", Sony One
-https://cdngb196.useetv.com/joss/15/sone/chunklist_w680979393_b684100_sleng_kamiselaluada.m3u8?enc=dbzS-8cH4wdYWN8ojA7wdg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554013
+https://cdn14jtedge.useetv.com/joss/15/sone/chunklist_w289032896_b684100_sleng_kamiselaluada.m3u8?enc=7r9kbBAuRSiWU314bSo9MQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921223
 #EXTINF:-1 tvg-id="kplus" tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Entertainment", K+
-https://cdngb196.useetv.com/joss/15/kplus/chunklist_w697122979_b1344100_sleng_kamiselaluada.m3u8?enc=kxSEhDp6uCoDFb0QeFH60A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554012
+https://cdn14jtedge.useetv.com/joss/15/kplus/chunklist_w1150751243_b1344100_sleng_kamiselaluada.m3u8?enc=bZ54aQEdnfbGgdxYl_9fnA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921222
 #EXTINF:-1 tvg-id="tv5monde" tvg-logo="http://kamiselaluada.com/img/tv5monde.png" group-title="Entertainment", TV5Monde
-https://cdngb196.useetv.com/joss/14/tv5monde/chunklist_w134097164_b684100_sleng_kamiselaluada.m3u8?enc=pruQUS2CxF5Rhfz90HKhJA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554013
+https://cdn14jtedge.useetv.com/joss/14/tv5monde/chunklist_w1666891652_b684100_sleng_kamiselaluada.m3u8?enc=ao7u6y-kINTsMzWqEErGog&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921223
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/formosa.png" group-title="Entertainment", Formosa
-https://cdngb196.useetv.com/joss/14/formosa/chunklist_w1737841571_b684100_sleng_kamiselaluada.m3u8?enc=p-ayidVifBDvamValNkkog&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615554018
+https://cdn14jtedge.useetv.com/joss/14/formosa/chunklist_w873535973_b684100_sleng_kamiselaluada.m3u8?enc=BLOlsZOTHQmyHHcAYsbPHA&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921226
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ctiasia.png" group-title="Entertainment", CTI ASIA
-https://cdngb196.useetv.com/joss/14/ctiasia/chunklist_w1922316838_b684100_sleng_kamiselaluada.m3u8?enc=FDL5TCFb88sP3Ji4mvUIXA&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615554018
+https://cdn14jtedge.useetv.com/joss/14/ctiasia/chunklist_w32999031_b684100_sleng_kamiselaluada.m3u8?enc=SaNfAJ8i00xzNlznSwLyPQ&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921226
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ettvasia.png" group-title="Entertainment", EBC ASIA
-https://cdngb196.useetv.com/joss/14/ettvasia/chunklist_w1331181128_b684100_sleng_kamiselaluada.m3u8?enc=3Opol97SU8nlZs0PSwBbRg&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615555942
+https://cdn14jtedge.useetv.com/joss/14/ettvasia/chunklist_w1884951621_b684100_sleng_kamiselaluada.m3u8?enc=pWEBvK1mHxZuMk_5woxryg&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615921225
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/outdoor.png" group-title="Entertainment", Outdoor Channel
-https://cdngb196.useetv.com/joss/14/outdoor/chunklist_w1346218350_b944100_sleng_kamiselaluada.m3u8?enc=18l_laM7uLwqG4YD8o05ZA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554013
+https://cdn14jtedge.useetv.com/joss/14/outdoor/chunklist_w685600153_b944100_sleng_kamiselaluada.m3u8?enc=iaXL78_Jl_-OG_wgldzxNw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921223
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/eljohn.png" group-title="Entertainment", El John TV
-https://cdngb196.useetv.com/joss/14/eljohn/chunklist_w311962556_b944100_sleng_kamiselaluada.m3u8?enc=Ixu_jCodNSpnGzqAJc6v_A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554014
+https://cdn14jtedge.useetv.com/joss/14/eljohn/chunklist_w794326692_b944100_sleng_kamiselaluada.m3u8?enc=3A_ccCu98urzwUldH52voA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615923148
 
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi", Rodja TV
-https://cdngb196.useetv.com/joss/14/rodjatv/chunklist_w574889565_b684100_sleng_kamiselaluada.m3u8?enc=kdhJKthdX4dxjb7maOqdUA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554016
+https://cdn14jtedge.useetv.com/joss/14/rodjatv/chunklist_w936413909_b684100_sleng_kamiselaluada.m3u8?enc=T7IGwOReMZJ2GRS08Anz2A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tawaf.png" group-title="Religi", TawafTV
-https://cdngb196.useetv.com/joss/14/tawaftv/chunklist_w1522284719_b684100_sleng_kamiselaluada.m3u8?enc=ogpDSXAMGpxFRLGSM6ckjA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554015
+https://cdn14jtedge.useetv.com/joss/14/tawaftv/chunklist_w843126977_b684100_sleng_kamiselaluada.m3u8?enc=fZHVdIQAjDuFC_PyhOL8_w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 #EXTINF:-1 tvg-id="mtatv" tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Religi", MTA TV
-https://cdngb196.useetv.com/joss/14/mtatv/chunklist_w532573723_b684100_sleng_kamiselaluada.m3u8?enc=2HfFLTPXMYRtTvwEJub8wg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554016
+https://cdn14jtedge.useetv.com/joss/14/mtatv/chunklist_w1287948535_b684100_sleng_kamiselaluada.m3u8?enc=bZiKTwI60xffQHDEIje3Ow&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mui.png" group-title="Religi", MUI TV
-https://cdngb196.useetv.com/joss/14/muitv/chunklist_w1565747257_b684100_sleng_kamiselaluada.m3u8?enc=pnkfa9JuzRG_On3G9lJBPA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554014
+https://cdn14jtedge.useetv.com/joss/14/muitv/chunklist_w483817015_b684100_sleng_kamiselaluada.m3u8?enc=gcaICcrEaGijqOovo7ohAA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 #EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Religi", AL Quran AL Kareem
-https://cdngb196.useetv.com/joss/14/alquran/chunklist_w437205300_b684100_sleng_kamiselaluada.m3u8?enc=K8i9HyMrQ_bem4feurUsSQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554014
+https://cdn14jtedge.useetv.com/joss/14/alquran/chunklist_w1185106318_b684100_sleng_kamiselaluada.m3u8?enc=WFHdY_ic3zUbuWBzTxH_6Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mqtv.png" group-title="Religi", MQTV
-https://cdngb196.useetv.com/joss/14/mqtv/chunklist_w1519248142_b684100_sleng_kamiselaluada.m3u8?enc=0WJkJiPQw0-d599xMN35Ug&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554016
+https://cdn14jtedge.useetv.com/joss/14/mqtv/chunklist_w2025665553_b684100_sleng_kamiselaluada.m3u8?enc=JssWWNgdDGgTvBI9RVfj2A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tv9nu.png" group-title="Religi", TV9 NU
-https://cdngb196.useetv.com/joss/14/tv9/chunklist_w1951446589_b684100_sleng_kamiselaluada.m3u8?enc=iDrT1GFhsmEz6SuYhr5eCg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554014
+https://cdn14jtedge.useetv.com/joss/14/tv9/chunklist_w864909241_b684100_sleng_kamiselaluada.m3u8?enc=yM8seTPYlvnvfQrSU0KtaQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921224
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvmu.png" group-title="Religi", Muhammadiyah TV
-https://cdngb196.useetv.com/joss/14/muhammadiyahtv/chunklist_w24156466_b684100_sleng_kamiselaluada.m3u8?enc=hHrea7G25jlQp93L1dbjbw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615554016
+https://cdn14jtedge.useetv.com/joss/14/muhammadiyahtv/chunklist_w1668268683_b684100_sleng_kamiselaluada.m3u8?enc=wJzH40jeRpKQBuix1dfelA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1615921225
 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=CQ0u9fBTuwZNL009WR4oG2auqOmELfJ4-MD8b3Qs7ly9cApDjw~hvz0~Ny87O3yqr-O7we4e4EPXLKmldprWaqAZIELtoRvTe~ifR4452hM7eMnwLQ65YYE7I0rGppGostEW3P7HLKJtukcbQbhDrW9zWEnBFB3GZmbplSxepGYRmXGJBFi3B-Vuja8CPL7jq3Vhxnt6vUVFnzundu5xCxaQ3K~A8o1uTPvr9XK8zXXp0PgYg5ZAO0q4eWr1OS-CBmTXVx0G0-WhF6YL2kUtAhb18J8zA1jEEvGmglGFNZDqPtgbcyhgqzqlt~CR3XAyO6gl5aikNX8uTUrFuZrTFQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=MpoajspNgqDEOiFwRs-lYVhWILfZ--6e8621-BzE2MDrXuwCyB5D38c-OB5Y-vJimqGlh5~Xn0ZXrB1AkcMA40kdYbyGBA54NYlX-CJzIlPjPkOWYOn57GEv5QFxrqvhVtJhKWkYorztJvC8Re59w~ocaZX4cs5SPPFXPvTc3T7x6~sQavSIXVXx67JBx1M~OTVRMgJkQmaucsUrbnQEapGPSXnwg7RYzTlL7euSFRK7UCDGUtQDPMPYoly987To1KGMsimTtc8IIDoVoRDXd~YUFe6h2efKo4vLTVMvRVPA5CsNv~Z9nPA9miKkoK0PkpuBGw8OCSBudyarRyuP0A__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=QHdAsKXEJbYfIqoi3i2LGX8yP7vFJtmuBG1He~~mychXye03I2QdtVPNyH-6BpaHJJpjPM1G5bQh8k-pgZEtzMa830sdmWjmUjMw7qIygcxnyLwPSK9K0276pwRttuceA6FSTs8Uwf~idK~DjtioCeaeJMt1NQlX~77TY2Yi5oHqPuFdtg9aJhgTfb7Z0WIvOcBZNyd~f~5It2b1~feoGilvHtjWfZ5D0DnFB9Zp8GK0ZGLJ7bDlNwu05Mu~AUKGwYhzt3yCQ-byJ-XuBE02nPeas1Y6Sjw5FZ3n9KKzFD0xoF~MEzr79ki4Bdw7kwA2mpqVlrZ1Zyip7GyUfvy3OQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=tfMgcpK-jeAsp~zGG7F16effxGivmVmsF3ZznFPUUfpX1TfKVvyWOCM7vf~k1WhL4ML20fFw70cIaUoAsDVAuqvn71jperw4HEtnuT~ZrEzIfGbWq7qOXT-ishdqknKN0HZMMJR9evmuvis04zkoY-zjK11Ok977QzHOOz9nV60WK0prywjEO5ohDdH~n2vCHY23oBsfD7oeesXreAzFAyCxRkJro1ayZbZZaArhKKB5E7seBaGYy8C1uxBd23E45UTBtxRr4b8n6SqqKM9JMxv-m4j-gzCzqSp-j~NLdLGBtJdV8gmAPwIYaGHFbKaPsLkXCHDQPo4SXMYAtNYPNg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE1NTU0ODMzfX19XX0_&Signature=kjqxbZYXuL9SVWvQMw7Z1RBPKeuGoAGkNOIG5F7~NCPkOB8B3a96ruSpc4sG253JQjxIPZg0LIFBRhCs8OHiUceKXJbjIw-Ehh9zHvCDF4WT7ndDX3og5FoYXC3Gr5h5cxDz8u9GWiJjiimtDGOOJjlNF-8y5uFztwYpFUKhtDeLfgWw6nR1vvO2jqxdj8wskOn6lJ0xUVQh5RfOKvhHJPDXMkIg8DumFVjieyPi8kbMYZJ63vyWIgL-dNFdL3ivCijdq5pRUEZFqUhD0doHYB~sVO40Qr9sIGab2Maea38GjkK1m56ENbR4-NrRb~t4ppYKyTeiAmP38hRxGEyT4Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE1OTE2NjAwfX19XX0_&Signature=iqyIESw33OgjFFfWbFX4yWCkRl7ddPDZsUW5PO5FTr0c5WEJcgcXdcCEi~qqIMnikupu9GAwofNF-YsErtJ9oTGxAueNsbDvY2HBW6hpXke3qTzwvcR5KGt~YT9RWI5PQy6yDKkercFq4ak7BenhQnv8MfeiNZmR9~uG3sORpY~QyQYBLC8hU5eaDS2Pzb1hnJSJcqOWE5KpWWD7vD8F0TuX54yzuH1mH-gi6m8j~XcoPU5e5nC5QmPCxrImgFwwHBp79OBIZRMm~exZZwU5sNu5EjjaTwtilKrcRko-NB0nOXgBeeU~khGcUZ3RkZD8OfFKRr551m7vkrufXc0XIA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=spnmFggvBtC37PZpaLJ5YwnI8NK~QoqKNtZfU0DBQbYHIPjDsHjQFB4KU3nnBn6adNThDiyRGLwhHIYVtfdPbkX3YXtI6o3tOuxNptiuNI20P-isC4ry8K90JR7K3eumNqHAZdhBn0F1mkDuYfeiPvq5E2585d61SX682D~oU~F4AmIo-bi70ZA16DUhMoQ5LWLwb12V-ejFs3jFCqsPkK72LlSnRmM36oDYAAcUnA2jsp-lZ0-baWoUmrYbzKwpy~5IMENx0PnECfIqgTVrQiodnH2M8XHohBevopGMPtV3yr6jQT~iRiEP2sxAjMv3lAoV4Eh2iGu3QphadGUoKQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=S3Kgf6OBTmZzbW2bJDzaNKOZ32t0q~fQKLrbnGA0fBiBQ6F8BowhG0pZz81lKChRg1xw9woecIGa0~j1Xi6sxhM7qaaSkViA782RDH20IrGN58EJ-1wfcJGZj6GErZoQTBUNAYadU~8NHCzcri382REerGMXPsx058OdiDyfEh68qYzfNDQK99zNIv56rnxdpQGUhmrCgu9Lrjt0JZPOL5ZC~BOrmEibhO8Z~pZLLosH-FRol91xMEgoeYCZ0pIhKOwjaT~jPYX0FuNfA8iquPUqPAwS60~UPyqfLl3bT0LoSU9TOlhI7O1t3z0-1Vwo2TBslFRSZY7zIXcupwAd2w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 group-title="Movies" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=TSX8dHXxPPdgcFvznwiKNcbxCnzMC6H1l6AoV5F69vdwth8Fh2P9Aa44K64uy2TPoFT1xjnf68B26HVBfvaE8O9Hs1BTAKnA1JIm7Ie1NJs9WUjVwTFE2KXwUNNJTVaf6v4zseeReCgY5k2YZ0xL4V5jeFiKrGiUnt-NE9gB5KJlrEMO0MXLgQTjCug~HEo6oOwk9V6ViJXQ3XeNhgDhoRs14WlcS~NypSl8J35tMsjacG1WlNfOC31TBST~h4hukJaThJf3aT465A7yNsRLbavqXyNYtiWIVEOrZDtjjWmDwfBGjZeDmCzYhazDEpvUrJeMdXBjw9pFKsdoVyT6BQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=LLP6-ipmwgXb0U5idA0Ld4xDPfM17LpFna-OuTlVdxveCvaPMe5ueUMTOomnZH9ry~Z2F-b1zC~TMGA3b-WACyeihtMl2qIvmnal5ep2RWDV30ZGVCMlP-7GR7FTb6BZz5aEGQn7VCRaa-b0CWR2EFuklQmBmeK0ktkxFwaeruf6Z2pSPBxZwgI0DnA3pZLZGGtgg4oSHORP8pqDJlBFCBS3xUxhy6Z5Ro0EEMNvM-EIzuSsIQGzuRQoLzs7AoGepFDz5kU1E4cZ3iVt0H~rKyoxabb5ZlDXgV41Ajs-pKpgFF4qSfxDBaanYWdWkU9Jjto1BKBAImsbA5hzl~zd8Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=tnHS5jr21W55Kluno9en-oW00fM0w3WhERoZ-fLhoLoLbr0sP4JD1qGHk5w4tRs-bP7W-NsxOaHraId9VBde9XnjBbvnkFePoPcEg0oIzpQTmuCeRkub-EohoSFWJL6UHLvEI3wLRkA4G05w3eaZWg-243jus2PnNUbYxj-6lrJZPEybNzDOCHaG-K02b4rTSS1OGISHM9vxhuMXPM-z6rPqiFcwyCfN4wv4p58sXaRId38iBzHQ2I0woQt6BUQXzjKO4H5kckm6txUQuNDBrM2WiUWGfZrUaaeV5T-GXEtkUo78wv5RUN-EFhjtWnJvks31K7v4oTrZ2Pd6TRBusw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=SUIWtqsbeFYSff5EykNvpbWmHM-SkYmD-cc9wT0wtc2sRLRa~01WBvYjQmIZksoqaoDAt4zOBJagj0lSkCUW4v~~T1wtGRLTylLcADow8ntnOM8kQFDc8~dB26yYI4Gwnpug-tC8RBFc440F5XPsVN3D8Sx-bHsdd~SI7Uq15kTonrIQqMwAyUDrnE0EFgzivOm5a5gcmIpCMJ82DuQAqWara9Oei0iWh3lBtY9pMXrpjunn-bqnIIwRVX2pbr9i-vh5rm82ct3n6friMGYJftSPHnIW9gnC8zfGthqwqiWgVr7Ob4NHNzi08QKyolR4eUjs6ae3O10ywTStlvHjQQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="ksa.hbo" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=CQ0u9fBTuwZNL009WR4oG2auqOmELfJ4-MD8b3Qs7ly9cApDjw~hvz0~Ny87O3yqr-O7we4e4EPXLKmldprWaqAZIELtoRvTe~ifR4452hM7eMnwLQ65YYE7I0rGppGostEW3P7HLKJtukcbQbhDrW9zWEnBFB3GZmbplSxepGYRmXGJBFi3B-Vuja8CPL7jq3Vhxnt6vUVFnzundu5xCxaQ3K~A8o1uTPvr9XK8zXXp0PgYg5ZAO0q4eWr1OS-CBmTXVx0G0-WhF6YL2kUtAhb18J8zA1jEEvGmglGFNZDqPtgbcyhgqzqlt~CR3XAyO6gl5aikNX8uTUrFuZrTFQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=MpoajspNgqDEOiFwRs-lYVhWILfZ--6e8621-BzE2MDrXuwCyB5D38c-OB5Y-vJimqGlh5~Xn0ZXrB1AkcMA40kdYbyGBA54NYlX-CJzIlPjPkOWYOn57GEv5QFxrqvhVtJhKWkYorztJvC8Re59w~ocaZX4cs5SPPFXPvTc3T7x6~sQavSIXVXx67JBx1M~OTVRMgJkQmaucsUrbnQEapGPSXnwg7RYzTlL7euSFRK7UCDGUtQDPMPYoly987To1KGMsimTtc8IIDoVoRDXd~YUFe6h2efKo4vLTVMvRVPA5CsNv~Z9nPA9miKkoK0PkpuBGw8OCSBudyarRyuP0A__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="ksa.hbosig" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=QHdAsKXEJbYfIqoi3i2LGX8yP7vFJtmuBG1He~~mychXye03I2QdtVPNyH-6BpaHJJpjPM1G5bQh8k-pgZEtzMa830sdmWjmUjMw7qIygcxnyLwPSK9K0276pwRttuceA6FSTs8Uwf~idK~DjtioCeaeJMt1NQlX~77TY2Yi5oHqPuFdtg9aJhgTfb7Z0WIvOcBZNyd~f~5It2b1~feoGilvHtjWfZ5D0DnFB9Zp8GK0ZGLJ7bDlNwu05Mu~AUKGwYhzt3yCQ-byJ-XuBE02nPeas1Y6Sjw5FZ3n9KKzFD0xoF~MEzr79ki4Bdw7kwA2mpqVlrZ1Zyip7GyUfvy3OQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=tfMgcpK-jeAsp~zGG7F16effxGivmVmsF3ZznFPUUfpX1TfKVvyWOCM7vf~k1WhL4ML20fFw70cIaUoAsDVAuqvn71jperw4HEtnuT~ZrEzIfGbWq7qOXT-ishdqknKN0HZMMJR9evmuvis04zkoY-zjK11Ok977QzHOOz9nV60WK0prywjEO5ohDdH~n2vCHY23oBsfD7oeesXreAzFAyCxRkJro1ayZbZZaArhKKB5E7seBaGYy8C1uxBd23E45UTBtxRr4b8n6SqqKM9JMxv-m4j-gzCzqSp-j~NLdLGBtJdV8gmAPwIYaGHFbKaPsLkXCHDQPo4SXMYAtNYPNg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="ksa.hbohits" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE1NTU0ODMzfX19XX0_&Signature=kjqxbZYXuL9SVWvQMw7Z1RBPKeuGoAGkNOIG5F7~NCPkOB8B3a96ruSpc4sG253JQjxIPZg0LIFBRhCs8OHiUceKXJbjIw-Ehh9zHvCDF4WT7ndDX3og5FoYXC3Gr5h5cxDz8u9GWiJjiimtDGOOJjlNF-8y5uFztwYpFUKhtDeLfgWw6nR1vvO2jqxdj8wskOn6lJ0xUVQh5RfOKvhHJPDXMkIg8DumFVjieyPi8kbMYZJ63vyWIgL-dNFdL3ivCijdq5pRUEZFqUhD0doHYB~sVO40Qr9sIGab2Maea38GjkK1m56ENbR4-NrRb~t4ppYKyTeiAmP38hRxGEyT4Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE1OTE2NjAwfX19XX0_&Signature=iqyIESw33OgjFFfWbFX4yWCkRl7ddPDZsUW5PO5FTr0c5WEJcgcXdcCEi~qqIMnikupu9GAwofNF-YsErtJ9oTGxAueNsbDvY2HBW6hpXke3qTzwvcR5KGt~YT9RWI5PQy6yDKkercFq4ak7BenhQnv8MfeiNZmR9~uG3sORpY~QyQYBLC8hU5eaDS2Pzb1hnJSJcqOWE5KpWWD7vD8F0TuX54yzuH1mH-gi6m8j~XcoPU5e5nC5QmPCxrImgFwwHBp79OBIZRMm~exZZwU5sNu5EjjaTwtilKrcRko-NB0nOXgBeeU~khGcUZ3RkZD8OfFKRr551m7vkrufXc0XIA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="ksa.hbofam" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=spnmFggvBtC37PZpaLJ5YwnI8NK~QoqKNtZfU0DBQbYHIPjDsHjQFB4KU3nnBn6adNThDiyRGLwhHIYVtfdPbkX3YXtI6o3tOuxNptiuNI20P-isC4ry8K90JR7K3eumNqHAZdhBn0F1mkDuYfeiPvq5E2585d61SX682D~oU~F4AmIo-bi70ZA16DUhMoQ5LWLwb12V-ejFs3jFCqsPkK72LlSnRmM36oDYAAcUnA2jsp-lZ0-baWoUmrYbzKwpy~5IMENx0PnECfIqgTVrQiodnH2M8XHohBevopGMPtV3yr6jQT~iRiEP2sxAjMv3lAoV4Eh2iGu3QphadGUoKQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=S3Kgf6OBTmZzbW2bJDzaNKOZ32t0q~fQKLrbnGA0fBiBQ6F8BowhG0pZz81lKChRg1xw9woecIGa0~j1Xi6sxhM7qaaSkViA782RDH20IrGN58EJ-1wfcJGZj6GErZoQTBUNAYadU~8NHCzcri382REerGMXPsx058OdiDyfEh68qYzfNDQK99zNIv56rnxdpQGUhmrCgu9Lrjt0JZPOL5ZC~BOrmEibhO8Z~pZLLosH-FRol91xMEgoeYCZ0pIhKOwjaT~jPYX0FuNfA8iquPUqPAwS60~UPyqfLl3bT0LoSU9TOlhI7O1t3z0-1Vwo2TBslFRSZY7zIXcupwAd2w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="ksa.cinemax" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=TSX8dHXxPPdgcFvznwiKNcbxCnzMC6H1l6AoV5F69vdwth8Fh2P9Aa44K64uy2TPoFT1xjnf68B26HVBfvaE8O9Hs1BTAKnA1JIm7Ie1NJs9WUjVwTFE2KXwUNNJTVaf6v4zseeReCgY5k2YZ0xL4V5jeFiKrGiUnt-NE9gB5KJlrEMO0MXLgQTjCug~HEo6oOwk9V6ViJXQ3XeNhgDhoRs14WlcS~NypSl8J35tMsjacG1WlNfOC31TBST~h4hukJaThJf3aT465A7yNsRLbavqXyNYtiWIVEOrZDtjjWmDwfBGjZeDmCzYhazDEpvUrJeMdXBjw9pFKsdoVyT6BQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=LLP6-ipmwgXb0U5idA0Ld4xDPfM17LpFna-OuTlVdxveCvaPMe5ueUMTOomnZH9ry~Z2F-b1zC~TMGA3b-WACyeihtMl2qIvmnal5ep2RWDV30ZGVCMlP-7GR7FTb6BZz5aEGQn7VCRaa-b0CWR2EFuklQmBmeK0ktkxFwaeruf6Z2pSPBxZwgI0DnA3pZLZGGtgg4oSHORP8pqDJlBFCBS3xUxhy6Z5Ro0EEMNvM-EIzuSsIQGzuRQoLzs7AoGepFDz5kU1E4cZ3iVt0H~rKyoxabb5ZlDXgV41Ajs-pKpgFF4qSfxDBaanYWdWkU9Jjto1BKBAImsbA5hzl~zd8Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU1NTQ4MzN9fX1dfQ__&Signature=tnHS5jr21W55Kluno9en-oW00fM0w3WhERoZ-fLhoLoLbr0sP4JD1qGHk5w4tRs-bP7W-NsxOaHraId9VBde9XnjBbvnkFePoPcEg0oIzpQTmuCeRkub-EohoSFWJL6UHLvEI3wLRkA4G05w3eaZWg-243jus2PnNUbYxj-6lrJZPEybNzDOCHaG-K02b4rTSS1OGISHM9vxhuMXPM-z6rPqiFcwyCfN4wv4p58sXaRId38iBzHQ2I0woQt6BUQXzjKO4H5kckm6txUQuNDBrM2WiUWGfZrUaaeV5T-GXEtkUo78wv5RUN-EFhjtWnJvks31K7v4oTrZ2Pd6TRBusw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTU5MTY2MDB9fX1dfQ__&Signature=SUIWtqsbeFYSff5EykNvpbWmHM-SkYmD-cc9wT0wtc2sRLRa~01WBvYjQmIZksoqaoDAt4zOBJagj0lSkCUW4v~~T1wtGRLTylLcADow8ntnOM8kQFDc8~dB26yYI4Gwnpug-tC8RBFc440F5XPsVN3D8Sx-bHsdd~SI7Uq15kTonrIQqMwAyUDrnE0EFgzivOm5a5gcmIpCMJ82DuQAqWara9Oei0iWh3lBtY9pMXrpjunn-bqnIIwRVX2pbr9i-vh5rm82ct3n6friMGYJftSPHnIW9gnC8zfGthqwqiWgVr7Ob4NHNzi08QKyolR4eUjs6ae3O10ywTStlvHjQQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls1.png" group-title="Lokal",Live Streaming 1
@@ -478,6 +531,10 @@ http://210.210.155.35/session/06daabf6-3131-11eb-a245-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bloomberg.png" group-title="Premium Channel", Bloomberg
 http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", BT SPORTS 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="Sports", BT SPORTS 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsportsxtra.png" group-title="Sports", beIN Sport Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports", True Premier 1
