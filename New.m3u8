@@ -1,9 +1,16 @@
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ZALTV LBKB",BERDOA DULU BIAR LANCAR
 http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fatihah.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="Lokal", Welcome
+From: <Saved by Blink>
+Snapshot-Content-Location: https://gratismkctv.net/pakaijak.m3u8/
+Subject: 
+Date: Thu, 18 Mar 2021 17:31:19 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--1dRvagqv4qwFD9DSwX0r2LEWBOlkufkC1yi3Dx949S----"
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTINF:-1 tvg-logo="" group-title="Lokal", Welcome
 https://cdn11jtedge.useetv.com/joss/15/useeinfo/chunklist_w987531102_b1344100_sleng.m3u8?enc=pZNiKDnBgT8_qqdplz2UbA&amp;uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&amp;exp=1616098930
 #EXTINF:-1 tvg-logo="" group-title="Lokal", Area 23
 https://cdn11jtedge.useetv.com/joss/15/useephoto/chunklist_w476699698_b1344100_sleng.m3u8?enc=E0GfJh01UXGxg-RekQD0rA&amp;uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&amp;exp=1616097006
