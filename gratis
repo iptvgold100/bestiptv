@@ -266,6 +266,306 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="MAXStream",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ps2d5ila9f5kazw/%E2%80%94Pngtree%E2%80%94caution%20and%20danger%20tapes%20warning_5545851.png?dl=1" group-title="Sport",Playlist Gratis..  Bukan Untuk dijual...
+http://rosyid004.com/playlist/vidioiklan/gratis.mp4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tfn6c98kvdc7uxn/kisspng-mbna-credit-card-balance-transfer-business-paid-in-full-5b37e9ba020652.6049600815303909700083.png?dl=1" group-title="Sport",Kontak Berlangganan Premium...
+http://rosyid004.com/playlist/vidioiklan/donasiarfian.mp4
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 3 (1080p)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-url="" group-title="Sport",Adventure Sports TV (360p)
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 tvg-id="AlKassFive.qa" tvg-name="Al Kass Five" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass Five (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
+#EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="Al Kass Four" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass Four (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass One (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
+#EXTINF:-1 tvg-id="AlKassOnline.qa" tvg-name="Al Kass Online" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass Online (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8
+#EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass Two (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
+#EXTINF:-1 tvg-id="AllSports.ir" tvg-name="All Sports" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="Sport",All Sports (1080p)
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-url="" group-title="Sport",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" tvg-url="" group-title="Sport",Arryadia (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" tvg-url="" group-title="Sport",Arryadia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" tvg-url="" group-title="Sport",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" tvg-url="" group-title="Sport",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-id="AzamSports1HD.tz" tvg-name="Azam Sports 1 HD" tvg-country="TZ" tvg-language="" tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1444752374.jpg" tvg-url="" group-title="Sport",Azam Sports 1 HD
+https://1446000130.rsc.cdn77.org/1446000130/index.m3u8
+#EXTINF:-1 tvg-id="AzamSports2.tz" tvg-name="Azam Sports 2" tvg-country="TZ" tvg-language="" tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1508329528.png" tvg-url="" group-title="Sport",Azam Sports 2
+https://1326605225.rsc.cdn77.org/1326605225/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1" tvg-country="BH" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Sport",Bahrain Sports 1 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2" tvg-country="BH" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Sport",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",beIN SPORTS XTRA
+http://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",beIN SPORTS XTRA (720p)
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",beIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 tvg-id="BekSportsEast.us" tvg-name="Bek Sports East" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-url="" group-title="Sport",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-id="BekSportsWest.us" tvg-name="Bek Sports West" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-url="" group-title="Sport",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-id="BestCableSports.pe" tvg-name="Best Cable Sports" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" tvg-url="" group-title="Sport",Best Cable Sports
+https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" tvg-url="" group-title="Sport",Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1 tvg-id="CycleWorld.us" tvg-name="Cycle World" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" tvg-url="" group-title="Sport",Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Sport",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-url="" group-title="Sport",Diema Sport
+http://136.243.177.164/DIEMASPORT/playlist.m3u8
+#EXTINF:-1 tvg-id="DiemaSport2HD.bg" tvg-name="Diema Sport 2 HD" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-url="" group-title="Sport",Diema Sport 2 HD
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai Racing" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Racing (1080p)
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing 2" tvg-name="Dubai Racing 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Racing 2 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing 3" tvg-name="Dubai Racing 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 2 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="EdgeSport.us" tvg-name="Edge Sport" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-url="" group-title="Sport",Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EdgeSportUS.us" tvg-name="Edge Sport (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-url="" group-title="Sport",Edge Sport (US)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGE Sport" tvg-name="Edge Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-url="" group-title="Sport",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-id="EdgeSports.us" tvg-name="Edge Sports" tvg-country="US" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-url="" group-title="Sport",Edge Sports (1080p)
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN (720p)
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN 2 (720p)
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN News (720p)
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN U (720p)
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="FCBayernMunchenTV.de" tvg-name="FC Bayern München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" tvg-url="" group-title="Sport",FC Bayern München TV (1080p)
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
+#EXTINF:-1 tvg-id="FightBox.us" tvg-name="Fight Box" tvg-country="US" tvg-language="English" tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" tvg-url="" group-title="Sport",Fight Box (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 tvg-id="FightSports.us" tvg-name="Fight Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-url="" group-title="Sport",Fight Sports (576p)
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:-1 tvg-id="FightSports.us" tvg-name="Fight Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-url="" group-title="Sport",Fight Sports (576p)
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",FOX Sport HD 1 (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-name="Fox Sports 2 Asia" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Fox Sports 2 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="Fox Sports 3 Asia" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Fox Sports 3 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FoxSportsAsia.us" tvg-name="Fox Sports Asia" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Fox Sports Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FoxSportspluto.us" tvg-name="Fox Sports pluto" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X491SzR.gif" tvg-url="" group-title="Sport",Fox Sports pluto (720p)
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="GEMFit.ir" tvg-name="GEM Fit" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.net/Assets/channels-box/gem_fit.png?14" tvg-url="" group-title="Sport",GEM Fit [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GOLFNETWORK.us" tvg-name="GOLF NETWORK" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",GOLF NETWORK
+http://203.162.235.41:16924
+#EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2msWdzQ.jpg" tvg-url="" group-title="Sport",Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Jordan Sport TV
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="KBPSPORTS.us" tvg-name="KBP SPORTS" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",KBP SPORTS (720p)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KOKFights.lt" tvg-name="KOK Fights" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/387jXC7.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",KOK Fights (720p)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",KTV Sport (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="MLB Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oDOpMph.png" tvg-url="" group-title="Sport",MLB Network
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="MLS" tvg-name="MLS" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6t7x61s.png" tvg-url="" group-title="Sport",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-name="MMA Junkie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/s5NcNef.png" tvg-url="" group-title="Sport",MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="MMN.us" tvg-name="MMN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",MMN
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Sport",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-url="" group-title="Sport",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="NewTVWeiLaiDianShiJingPinTiYu.cn" tvg-name="NewTV未来电视 精品体育" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",NewTV未来电视 精品体育
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Oman Sport (1080p)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-url="" group-title="Sport",ORF Sport + (540p)
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sport",PTV Sports (360p)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sport",PTV Sports (720p)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RACINGCOM.au" tvg-name="RACING.COM" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",RACING.COM (576p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Real Madrid TV (404p)
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (540p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Sport",Rede Globo
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-url="" group-title="Sport",RTM Sports
+http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-id="RugbyMensSevens.ie" tvg-name="Rugby Men's Sevens" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/dIzAmT0.png" tvg-url="" group-title="Sport",Rugby Men's Sevens (288p)
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="RugbyWomensSevens.ie" tvg-name="Rugby Women's Sevens" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/HZp8PAw.png" tvg-url="" group-title="Sport",Rugby Women's Sevens (288p)
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-id="RugbyWorldTV.ie" tvg-name="Rugby World TV" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/xVgXmS2.jpg" tvg-url="" group-title="Sport",Rugby World TV (720p)
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" tvg-country="SM;IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-url="" group-title="Sport",San Marino RTV Sport (240p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-name="Snowy Mountains Television" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Snowy Mountains Television (1082p)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:-1 tvg-id="Sport1.ua" tvg-name="Sport 1" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Sport 1
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" tvg-url="" group-title="Sport",Sports TV Plus
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="Sportskool.us" tvg-name="Sportskool" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" tvg-url="" group-title="Sport",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="SportsMax.jm" tvg-name="SportsMax" tvg-country="JM" tvg-language="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg" tvg-url="" group-title="Sport",SportsMax (720p)
+http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 tvg-id="SportsMax.jm" tvg-name="SportsMax" tvg-country="JM" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",SportsMax
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-country="US" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-url="" group-title="Sport",Stadium (720p)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-url="" group-title="Sport",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-id="STIRRSports.us" tvg-name="STIRR Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Sport",STIRR Sports (720p)
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="Swiss Sport TV" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-url="" group-title="Sport",Swiss Sport TV (720p)
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecaribeDeportes2.co" tvg-name="Telecaribe Deportes 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-url="" group-title="Sport",Telecaribe Deportes 2
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 tvg-id="TelecaribeDeportes2.co" tvg-name="Telecaribe Deportes 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-url="" group-title="Sport",Telecaribe Deportes 2
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8
+#EXTINF:-1 tvg-id="TelecaribeDeportes2.co" tvg-name="Telecaribe Deportes 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-url="" group-title="Sport",Telecaribe Deportes 2
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8
+#EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="The Tennis Channel" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" tvg-url="" group-title="Sport",The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" tvg-country="FR" tvg-language="" tvg-logo="" tvg-url="" group-title="Sport",Trace Sport Stars
+https://mj1b2xsspj.singularcdn.net.br/trace/tss/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-name="TVRI Sport HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/zjh63nC.jpg" tvg-url="" group-title="Sport",TVRI Sport HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" tvg-url="" group-title="Sport",TVS Classic Sports (720p)
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-name="TVS Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" tvg-url="" group-title="Sport",TVS Sports (960p)
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-name="TVS Women Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" tvg-url="" group-title="Sport",TVS Women Sports (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" tvg-url="" group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" tvg-url="" group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" tvg-url="" group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" tvg-url="" group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" tvg-url="" group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" tvg-url="" group-title="Sport",US SPORT Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="ViasatSportEast.se" tvg-name="Viasat Sport East" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Sport",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" tvg-url="" group-title="Sport",Win Sports+
+http://latinoamericatv.vip:3334/Kaka/Kaka/1385
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" tvg-url="" group-title="Sport",Win Sports+
+http://saypopular.com:25461/oscar/20gar/52853
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Freesports
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Nus9e8M.jpg" tvg-url="" group-title="Sport",World Poker Tour (1080p)
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 tvg-id="YasTV.ae" tvg-name="Yas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Yas TV (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="Матч ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч ТВ (576p)
+http://176.114.16.54:80/match/index.m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="Матч ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч ТВ (576p)
+https://95-213-224-188.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="Матч ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч ТВ
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Матч! Игра" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч! Игра
+https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт (1080p)
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
+https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
+https://strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
+https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="Futbol1.ua" tvg-name="Футбол 1" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/J1VuYAB.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Футбол 1
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-id="Futbol2.ua" tvg-name="Футбол 2" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Футбол 2
+https://95-213-224-183.livesports24.online/fooootball2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ps2d5ila9f5kazw/%E2%80%94Pngtree%E2%80%94caution%20and%20danger%20tapes%20warning_5545851.png?dl=1" group-title="Sport Thailand",Playlist Gratis..  Bukan Untuk dijual...
 http://rosyid004.com/playlist/vidioiklan/gratis.mp4
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tfn6c98kvdc7uxn/kisspng-mbna-credit-card-balance-transfer-business-paid-in-full-5b37e9ba020652.6049600815303909700083.png?dl=1" group-title="Sport Thailand",Kontak Berlangganan Premium...
@@ -372,11 +672,11 @@ http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Sports (Usee &amp; Vidio)",eGG TV
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2L4JiRN" group-title="Sports (Usee &amp; Vidio)",ChampionTV 1
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://gpc.my.id/vidio/6685.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2L4JiRN" group-title="Sports (Usee &amp; Vidio)",ChampionTV 2
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://gpc.my.id/vidio/6686.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2L4JiRN" group-title="Sports (Usee &amp; Vidio)",ChampionTV 3
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://gpc.my.id/vidio/6786.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ps2d5ila9f5kazw/%E2%80%94Pngtree%E2%80%94caution%20and%20danger%20tapes%20warning_5545851.png?dl=1" group-title="Bein Match",Playlist Gratis..  Bukan Untuk dijual...
 http://rosyid004.com/playlist/vidioiklan/gratis.mp4
@@ -555,7 +855,7 @@ http://rosyid004.com/playlist/vidioiklan/gratis.mp4
 http://rosyid004.com/playlist/vidioiklan/donasiarfian.mp4
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://www.dropbox.com/s/chh1islbabl4rre/PngItem_1531084.png?dl=1",HBO
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://www.dropbox.com/s/ufmkosbia1wozin/kindpng_1531080.png?dl=1",HBO SIGNATURE
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 group-title="HBO" tvg-logo="https://www.dropbox.com/s/xjjldzgeae55bgz/PngItem_1531106.png?dl=1",HBO FAMILY
@@ -593,9 +893,9 @@ http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bioskopindo.png" group-title="Movies",Bioskop Indonesia
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/zeebioskop.png" group-title="Movies",ZBioskop
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://gpc.my.id/vidio/6399.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/tvn.png" group-title="Movies",TVN
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://gpc.my.id/vidio/6362.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="Movies",TVN MOVIES
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/thrill.png" group-title="Movies",Thrill
@@ -613,7 +913,249 @@ http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="Movies",IMC
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/imc.png" group-title="Movies", ATV Ind
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w478007809.m3u8 
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ACNCinema.in" tvg-name="ACN Cinema" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Movies",ACN Cinema (1080p)
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 tvg-id="AkudjiTV.ru" tvg-name="Akudji TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Akudji TV
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Amedia Hit
+http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Amedia Hit
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="AmericanClassics.us" tvg-name="American Classics" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" tvg-url="" group-title="Movies",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="Movies",Animax Japan (720p)
+http://180.92.158.208:9981/stream/channelid/806982131
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Movies",AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="Bflix Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="Bollywood.in" tvg-name="Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Bollywood (480p)
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-name="Bollywood HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Bollywood HD
+http://89.106.234.5:80/bollywood_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-name="Bollywood HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
+http://117.169.120.140:8080/live/cctv-6/.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-url="" group-title="Movies",Celestial Movies (480p)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" tvg-url="" group-title="Movies",Charge! (720p)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-name="Classic Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" tvg-url="" group-title="Movies",Classic Cinema (240p)
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" tvg-url="" group-title="Movies",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-id="FilmTV.ru" tvg-name="Film TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Film TV
+http://filmtv.zapto.org:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseClassics.us" tvg-name="Filmrise Classics" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseCrime.us" tvg-name="Filmrise Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-url="" group-title="Movies",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseCrime.us" tvg-name="Filmrise Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-url="" group-title="Movies",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseMovies.us" tvg-name="Filmrise Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQZdGc0.png" tvg-url="" group-title="Movies",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" tvg-url="" group-title="Movies",Flim Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxLifeRussia.us" tvg-name="Fox Life Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",Fox Life Russia (576p)
+http://51.68.140.190:8081/tv/fox-life/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMAcademy.ir" tvg-name="GEM Academy" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemusa.png?14" tvg-url="" group-title="Movies",GEM Academy [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMBollywood.ir" tvg-name="GEM Bollywood" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYiu1KZP_kImji9D0I57-kcflih6u6QQNgbAoz=s900-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Movies",GEM Bollywood [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMComedy.ir" tvg-name="GEM Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="http://tvlogo.xyz/iran/gem-comedy.png" tvg-url="" group-title="Movies",GEM Comedy [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMDrama.ir" tvg-name="GEM Drama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/gemdrama.png" tvg-url="" group-title="Movies",GEM Drama [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMFilm.ir" tvg-name="GEM Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png?14" tvg-url="" group-title="Movies",GEM Film [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMSeries.ir" tvg-name="GEM Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj7XoA_0-cBBgQu18axtCsfYKv_2JIttywmrUfw=s900-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Movies",GEM Series [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMTv.ir" tvg-name="GEM Tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQEXJn2GhXCwrg/company-logo_200_200/0/1519922542997?e=2159024400&v=beta&t=aSDLR93A3W1bT5IjnzcojcMfTPNm1Uro97Tg5C28otM" tvg-url="" group-title="Movies",GEM Tv [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-name="Gravitas Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" tvg-url="" group-title="Movies",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GRAVITASMOVIESSTIRR.us" tvg-name="GRAVITAS MOVIES (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png" tvg-url="" group-title="Movies",GRAVITAS MOVIES (STIRR)
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+#EXTINF:-1 tvg-id="GroovyTV.gr" tvg-name="Groovy TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-url="" group-title="Movies",Groovy TV (532p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg" tvg-url="" group-title="Movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="IDHDJKT.de" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="Movies",ID HD (JKT)
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 tvg-id="iFILMArabic.ir" tvg-name="iFILM Arabic" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RPwKZUD.jpg" tvg-url="" group-title="Movies",iFILM Arabic (720p)
+https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="iFILMEnglish.ir" tvg-name="iFILM English" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" tvg-url="" group-title="Movies",iFILM English
+https://live1.presstv.com/live/ifilmen.m3u8
+#EXTINF:-1 tvg-id="iFILMPersian1.ir" tvg-name="iFILM Persian 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/El4Ymh6.png" tvg-url="" group-title="Movies",iFILM Persian 1 (720p)
+https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="iFILMPersian2.ir" tvg-name="iFILM Persian 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" tvg-url="" group-title="Movies",iFILM Persian 2
+https://live1.presstv.com/live/ifilm2.m3u8
+#EXTINF:-1 tvg-id="ItsAtTheMovies.us" tvg-name="It’s At The Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zJ5idav.jpg" tvg-url="" group-title="Movies",It’s At The Movies (480p)
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru" tvg-name="KINO24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",KINO24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" tvg-url="" group-title="Movies",Kuriakos Cine (1080p)
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-url="" group-title="Movies",Kuriakos Cine (1080p)
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Maha Movie (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Manoranjan Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-id="MaverickMovies.us" tvg-name="Maverick Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Zk5wP5K.png" tvg-url="" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC 2 (1080p)
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Action (1080p)
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Max (1080p)
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MilleniumTV.ru" tvg-name="Millenium TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Millenium TV (1080p)
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MilleniumTV.ru" tvg-name="Millenium TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Millenium TV (540p)
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Movee4U.us" tvg-name="Movee 4U" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K6XKJTr.jpg" tvg-url="" group-title="Movies",Movee 4U (480p)
+https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="MovieMixSTIRR.us" tvg-name="Movie Mix (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7dfc8d97-0c37-40f0-b251-5eacf509d891-small3x1_stirr_1219_epg_moviemix_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="Movies",Movie Mix (STIRR)
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-id="MoviesKingdom.us" tvg-name="Movies Kingdom" tvg-country="US;UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="MoviesphereFree.us" tvg-name="Moviesphere Free" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" tvg-url="" group-title="Movies",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000STIRR.us" tvg-name="Mystery Science Theater 3000 (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ee454d3c-4cbe-4bda-a056-56d037c28705-small3x1_STIRR_Logo_0320_MysteryScienceTheater3000_1920x1080_EPG_2.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-url="" group-title="Movies",Mystery Science Theater 3000 (STIRR)
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 tvg-id="Mythos.us" tvg-name="Mythos" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JBEqPZP.png" tvg-url="" group-title="Movies",Mythos (720p)
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+#EXTINF:-1 tvg-id="NewTVWeiLaiDianShiDongZuoDianYing.cn" tvg-name="NewTV未来电视 动作电影" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",NewTV未来电视 动作电影
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-name="Raj Digital Plus" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/raj_digital_plus-1.png" tvg-url="" group-title="Movies",Raj Digital Plus (404p)
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD (1080p)
+https://hiplayer.hibridcdn.net/p/rotana-cinema
+#EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-name="Rotana Cinema HD" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD (1080p)
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-name="Rotana Cinema HD KSA" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD KSA (1080p)
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="SanthoraShortFlim.in" tvg-name="Santhora Short Flim" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/kKFfLMd.jpg" tvg-url="" group-title="Movies",Santhora Short Flim (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="Screamfest.us" tvg-name="Screamfest" tvg-country="US" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-url="" group-title="Movies",Screamfest (720p)
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+#EXTINF:-1 tvg-id="Screamfest.us" tvg-name="Screamfest" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kmHryT4.png" tvg-url="" group-title="Movies",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="ShemarooBollywoodClassic.in" tvg-name="Shemaroo Bollywood Classic" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" tvg-url="" group-title="Movies",Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Shot TV
+http://37.17.14.149:8905/play/a00m
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Shot TV
+https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8
+#EXTINF:-1 tvg-id="STIRRBlackCinema.us" tvg-name="STIRR Black Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Black Cinema (720p)
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Movies (720p)
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRWesterns.us" tvg-name="STIRR Westerns" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Westerns (720p)
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Syria Drama (270p)
+http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1pxXEtP.png" tvg-url="" group-title="Movies",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ukKFllt.jpg" tvg-url="" group-title="Movies",The Film Detective
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",The Film Detective (720p)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="Movies",Thrill (480p)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" tvg-url="" group-title="Movies",TV BNO (270p)
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 tvg-id="TVCinec.br" tvg-name="TV Cinec" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bEoN2tt.png" tvg-url="" group-title="Movies",TV Cinec (720p)
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 tvg-id="TVXXI.ru" tvg-name="TV XXI" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",TV XXI (576p)
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1000WorldKino.se" tvg-name="TV1000 World Kino" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",TV1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-name="TVS Drive In Movie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" tvg-url="" group-title="Movies",TVS Drive In Movie (360p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="ViPMegahitRussia.se" tvg-name="ViP Megahit Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",ViP Megahit Russia
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1 tvg-id="ViPPremiereRussia.se" tvg-name="ViP Premiere Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",ViP Premiere Russia
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="Wixlar.gr" tvg-name="Wixlar" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-url="" group-title="Movies",Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",WOW! TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",WOW! TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" tvg-url="" group-title="Movies",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Zigfreed.ru" tvg-name="Zigfreed" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Zigfreed
+http://zigfreed.ru:8080/Z!/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кинo" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дом кинo
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дом кино
+http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-name="Дом Кино Премиум HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Дорама" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lHn6OlM.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дорама (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Дорама" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lHn6OlM.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дорама
+http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="ElArna.kz" tvg-name="Ел Арна" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Ел Арна
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-id="Kinomiks.ru" tvg-name="Киномикс" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киномикс
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinopremera.ru" tvg-name="Кинопремьера" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносвидание
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносвидание
+https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinosemya.ru" tvg-name="Киносемья" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносемья
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-name="Кинохит" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Кинохит
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-name="Кинохит" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Кинохит
+https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KlassikaKino.ru" tvg-name="Классика Кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Классика Кино (720p)
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
+#EXTINF:-1 tvg-id="PREMERA.ru" tvg-name="ПРЕМЬЕРА" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",ПРЕМЬЕРА
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 tvg-id="STRKHD.ru" tvg-name="СТРК HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="HeiMeiDianYing.cn" tvg-name="黑莓电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",黑莓电影
+http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ps2d5ila9f5kazw/%E2%80%94Pngtree%E2%80%94caution%20and%20danger%20tapes%20warning_5545851.png?dl=1" group-title="Hiburan (Non Subtittle)",Playlist Gratis..  Bukan Untuk dijual...
 http://rosyid004.com/playlist/vidioiklan/gratis.mp4
@@ -794,6 +1336,168 @@ http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Formosa
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+#EXTINF:-1 tvg-id="3TamilTV.in" tvg-name="3 Tamil TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" tvg-url="" group-title="Entertainment",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-name="30A Sidewalks" tvg-country="US" tvg-language="English" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" tvg-url="" group-title="Entertainment",30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" tvg-url="" group-title="Entertainment",4U TV (480p)
+http://live.4ulive.ir/
+#EXTINF:-1 tvg-id="7StarTV.in" tvg-name="7Star TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/EaHWWNl.jpg" tvg-url="" group-title="Entertainment",7Star TV (576p)
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 tvg-id="8Kanal.ru" tvg-name="8 Канал" tvg-country="RU" tvg-language="Russian" tvg-logo="http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1 tvg-id="9Volna.ru" tvg-name="9 Волна" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",9 Волна (720p)
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="9Volna.ru" tvg-name="9 Волна" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",9 Волна (720p)
+https://strm.yandex.ru/kal/acb/acb0.m3u8
+#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" tvg-url="" group-title="Entertainment",A&E (Best of) (1080p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AaryaPremiere.in" tvg-name="Aarya Premiere" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Entertainment",Aarya Premiere (720p)
+http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
+#EXTINF:-1 tvg-id="AathavanTV.in" tvg-name="Aathavan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/IgwQ7o5.png" tvg-url="" group-title="Entertainment",Aathavan TV (720p)
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" tvg-url="" group-title="Entertainment",Adult Swim (1080p)
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png" tvg-url="" group-title="Entertainment",Amrita TV (576p)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="ArasanTV.in" tvg-name="Arasan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Entertainment",Arasan TV (1080p)
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BlazeTV.us" tvg-name="BlazeTV" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" tvg-url="" group-title="Entertainment",BlazeTV (720p)
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="CineFilm.ir" tvg-name="Cine Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/wWKyJDs.png" tvg-url="" group-title="Entertainment",Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cineseries.ir" tvg-name="Cineseries" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Iz8re8Z.png" tvg-url="" group-title="Entertainment",Cineseries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/dd_malayalam-1.png" tvg-url="" group-title="Entertainment",DD Malayalam (576p)
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" tvg-url="" group-title="Entertainment",DD National (576p)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 tvg-id="EETTV.in" tvg-name="EET TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" tvg-url="" group-title="Entertainment",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="ETLive.us" tvg-name="ET Live" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" tvg-url="" group-title="Entertainment",ET Live (1080p)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-url="" group-title="Entertainment",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-url="" group-title="Entertainment",Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-url="" group-title="Entertainment",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-name="Flowers TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg" tvg-url="" group-title="Entertainment",Flowers TV (576p)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="GEM24b.ir" tvg-name="GEM 24b" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i1.wp.com/www.irtv98.com/wp-content/uploads/2020/08/24b.png?resize=1335%2C844&ssl=1" tvg-url="" group-title="Entertainment",GEM 24b [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMArabia.ir" tvg-name="GEM Arabia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_arabia.png?14" tvg-url="" group-title="Entertainment",GEM Arabia [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMAZ.ir" tvg-name="GEM AZ" tvg-country="IR" tvg-language="Persian" tvg-logo="https://irantechblog.files.wordpress.com/2019/09/gem-az.jpg" tvg-url="" group-title="Entertainment",GEM AZ [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMMaxx.ir" tvg-name="GEM Maxx" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/maxx.png?14" tvg-url="" group-title="Entertainment",GEM Maxx [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMMifa.ir" tvg-name="GEM Mifa" tvg-country="IR" tvg-language="Persian" tvg-logo="http://moreel.me/pic/gem/GEMMafia.gif" tvg-url="" group-title="Entertainment",GEM Mifa [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="GEMNature.ir" tvg-name="GEM Nature" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-nature-1212.jpg" tvg-url="" group-title="Entertainment",GEM Nature [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMProperty.ir" tvg-name="GEM Property" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?14" tvg-url="" group-title="Entertainment",GEM Property [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMRiver.ir" tvg-name="GEM River" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/river.png?14" tvg-url="" group-title="Entertainment",GEM River [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMTravel.ir" tvg-name="GEM Travel" tvg-country="IR" tvg-language="Persian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOYMc7YZI7wTh9Pv57o9w5vrt8j6ITigGKw&usqp=CAU" tvg-url="" group-title="Entertainment",GEM Travel [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="HDMedia.ru" tvg-name="HD Медиа" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/hd-media.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",HD Медиа (720p)
+https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
+#EXTINF:-1 tvg-id="IBCTamil.in" tvg-name="IBC Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png" tvg-url="" group-title="Entertainment",IBC Tamil (720p)
+https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8
+#EXTINF:-1 tvg-id="IBCTamilCanada.in" tvg-name="IBC Tamil Canada" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png" tvg-url="" group-title="Entertainment",IBC Tamil Canada (720p)
+https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8
+#EXTINF:-1 tvg-id="IRIB Nasim IR" tvg-name="IRIB Nasim" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/vJN95kP.png" tvg-url="" group-title="Entertainment",IRIB NASIM
+https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITNTV.ir" tvg-name="ITN TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Iran_TV_Network.png" tvg-url="" group-title="Entertainment",ITN TV (480p)
+https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png" tvg-url="" group-title="Entertainment",Jaihind TV (576p)
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" tvg-url="" group-title="Entertainment",Janam TV (240p)
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png" tvg-url="" group-title="Entertainment",Kairali TV (576p)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-id="KairaliWe.in" tvg-name="Kairali We" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in_we.png" tvg-url="" group-title="Entertainment",Kairali We (576p)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" tvg-country="NP" tvg-language="Nepali (macrolanguage)" tvg-logo="http://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" tvg-url="" group-title="Entertainment",Kantipur TV (1080p)
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="Kasthuri TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Kasthuri_TV.png" tvg-url="" group-title="Entertainment",Kasthuri TV (576p)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png" tvg-url="" group-title="Entertainment",Kaumudy TV (360p)
+https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="Kix.my" tvg-name="Kix" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/mX1nnGy.png" tvg-url="" group-title="Entertainment",Kix
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="LaVoz24h.es" tvg-name="La Voz 24h" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Entertainment",La Voz 24h
+https://pull12.atresmedia.com/lavoz/master.m3u8
+#EXTINF:-1 tvg-id="Manoto.ir" tvg-name="Manoto" tvg-country="IR" tvg-language="Persian" tvg-logo="https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/manotologo.png" tvg-url="" group-title="Entertainment",Manoto TV
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-id="ManotoTV.uk" tvg-name="Manoto TV" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" tvg-url="" group-title="Entertainment",Manoto TV (1080p)
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-id="MazhavilManoramaHD.in" tvg-name="Mazhavil Manorama HD" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-1.png" tvg-url="" group-title="Entertainment",Mazhavil Manorama HD (720p)
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1 tvg-id="MKTV.in" tvg-name="MK TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png" tvg-url="" group-title="Entertainment",MK TV (576p)
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-id="ModernEconomy.ir" tvg-name="Modern Economy" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-modern-economy-6721.jpg" tvg-url="" group-title="Entertainment",Modern Economy [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="MTV-NO" tvg-name="MTV-NO" tvg-country="NO" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/iviMrbO.jpg" tvg-url="" group-title="Entertainment",MTV (720p)
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV (Latin America)" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Entertainment",MTV (Latin America) (480p)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="MTVNorge.us" tvg-name="MTV Norge" tvg-country="NORD" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/QpdHuGo.png" tvg-url="" group-title="Entertainment",MTV Norge (720p)
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="NewTVWeiLaiDianShiJinPaiZongYi.cn" tvg-name="NewTV未来电视 金牌综艺" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",NewTV未来电视 金牌综艺
+http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1 tvg-id="OCEANTV.ru" tvg-name="OCEAN-TV" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/8PrbyBz.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",OCEAN-TV (720p)
+https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0.m3u8
+#EXTINF:-1 tvg-id="PakalavanTV.in" tvg-name="Pakalavan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/3IzVcjg.png" tvg-url="" group-title="Entertainment",Pakalavan TV (720p)
+https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ParsilandTV.ir" tvg-name="Parsiland TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg" tvg-url="" group-title="Entertainment",Parsiland TV
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-name="Payam Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" tvg-url="" group-title="Entertainment",Payam Javan TV (720p)
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-name="PBC Tapesh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" tvg-url="" group-title="Entertainment",PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 tvg-id="PertiwiTV.my" tvg-name="Pertiwi TV" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-url="" group-title="Entertainment",Pertiwi TV (720p)
+https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimeCanadaTV.in" tvg-name="Prime Canada TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" tvg-url="" group-title="Entertainment",Prime Canada TV (720p)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" tvg-url="" group-title="Entertainment",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="SigaramTV.in" tvg-name="Sigaram TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/QXV7bn4.png" tvg-url="" group-title="Entertainment",Sigaram TV (768p)
+http://7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThalapathyTV.in" tvg-name="Thalapathy TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/0ApLXUi.png" tvg-url="" group-title="Entertainment",Thalapathy TV (768p)
+http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8
+#EXTINF:-1 tvg-id="TMZ.us" tvg-name="TMZ" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" tvg-url="" group-title="Entertainment",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="Velicham.in" tvg-name="Velicham" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/YeR3mm9.png" tvg-url="" group-title="Entertainment",Velicham (360p)
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Entertainment",WOW TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-name="Young Hollywood" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WrYEcXp.png" tvg-url="" group-title="Entertainment",Young Hollywood
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-name="YourTime TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yourtime.tv/img/utv-logo.png" tvg-url="" group-title="Entertainment",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MIRPremium.ru" tvg-name="МИР Premium" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",МИР Premium (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Ratnik.ru" tvg-name="Ратник" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",Ратник (1080p)
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Ratnik.ru" tvg-name="Ратник" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",Ратник (576p)
+https://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-name="ТНТ International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",ТНТ International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s19/04.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ps2d5ila9f5kazw/%E2%80%94Pngtree%E2%80%94caution%20and%20danger%20tapes%20warning_5545851.png?dl=1" group-title="Knowledge",Playlist Gratis..  Bukan Untuk dijual...
 http://rosyid004.com/playlist/vidioiklan/gratis.mp4
@@ -1013,5 +1717,29 @@ http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Malaysia",Berita RTM
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ps2d5ila9f5kazw/%E2%80%94Pngtree%E2%80%94caution%20and%20danger%20tapes%20warning_5545851.png?dl=1" group-title="Food",Playlist Gratis..  Bukan Untuk dijual...
+http://rosyid004.com/playlist/vidioiklan/gratis.mp4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tfn6c98kvdc7uxn/kisspng-mbna-credit-card-balance-transfer-business-paid-in-full-5b37e9ba020652.6049600815303909700083.png?dl=1" group-title="Food",Kontak Berlangganan Premium...
+http://rosyid004.com/playlist/vidioiklan/donasiarfian.mp4
+
+#EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/15a9pG9.png" tvg-url="" group-title="Food",Chef Champion (720p)
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tn9bRD1.jpg" tvg-url="" group-title="Food",Chef Roc Show (720p)
+https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-id="GEMFood.ir" tvg-name="GEM Food" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_food.png?14" tvg-url="" group-title="Food",GEM Food [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="HellsKitchenSTIRR.us" tvg-name="Hell's Kitchen (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e9486527-1ffc-4031-8b91-c954076365f8-small3x1_stirr_1219_epg_hellskitchen_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="Food",Hell's Kitchen (STIRR)
+https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
+#EXTINF:-1 tvg-id="PlantBasedNetworkHD.us" tvg-name="Plant-Based Network HD" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iwd9Jxb.png" tvg-url="" group-title="Food",Plant-Based Network HD
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
+#EXTINF:-1 tvg-id="STIRRCooks.us" tvg-name="STIRR Cooks" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Food",STIRR Cooks (720p)
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" tvg-url="" group-title="Food",Tastemade (1080p)
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TheOutdoorCookingChannel.us" tvg-name="The Outdoor Cooking Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PnBXXw4.png" tvg-url="" group-title="Food",The Outdoor Cooking Channel (480p)
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+#EXTINF:-1 tvg-id="TheOutdoorCookingChannel.us" tvg-name="The Outdoor Cooking Channel" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Food",The Outdoor Cooking Channel
+https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8
 </body></html>
 ------MultipartBoundary--QXx4rOGZH6sI3Ca6zL6u59MQF0bpNoqh88mWAXN8ch------
