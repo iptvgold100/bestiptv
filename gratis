@@ -271,6 +271,8 @@ http://rosyid004.com/playlist/vidioiklan/gratis.mp4
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tfn6c98kvdc7uxn/kisspng-mbna-credit-card-balance-transfer-business-paid-in-full-5b37e9ba020652.6049600815303909700083.png?dl=1" group-title="Sport",Kontak Berlangganan Premium...
 http://rosyid004.com/playlist/vidioiklan/donasiarfian.mp4
 
+#EXTINF:-1 tvg-logo="https://imgmove.com/public/assets/web/template/t_streaming/assets/img/zq-logo.png" tvg-id="BathokGpc" tvg-name="ZQ-Sport" group-title="Sport",ZQ-Sport
+https://iptv.zqstream.com/zqsport-sec/tracks-v1a1/mono.m3u8?token=5ce9bd6df17d251fa103a6863a688b9a16518e3e-178d0fb20d44c79b15c6c5d0847ab42f-1617742931-1617735731
 #EXTINF:-1 group-title="Sport",Match Аrena
 http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Match arena 1
@@ -666,9 +668,9 @@ http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport Thailand",Bein Sport 2 (AR)
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="Sport Thailand",BT Sport 1
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://iptvh.it/lvtt_kenh24
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="Sport Thailand",BT Sport 2
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://iptvh.it/lvtt_kenh25
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ps2d5ila9f5kazw/%E2%80%94Pngtree%E2%80%94caution%20and%20danger%20tapes%20warning_5545851.png?dl=1" group-title="Sport Mix",Playlist Gratis..  Bukan Untuk dijual...
 http://rosyid004.com/playlist/vidioiklan/gratis.mp4
@@ -1357,7 +1359,7 @@ http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/kbsworld.png" group-title="Entertainment",KBS World
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/abcaustralia.png" group-title="Entertainment",ABC Australia
-http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
+http://gpc.my.id/vidio/7150.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/lifetime.png" group-title="Entertainment",Lifetime
 http://rosyid004.com/playlist/vidioiklan/berlangganan.mp4
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Entertainment",Entertainment: History 
