@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Lokal" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Lokal" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
-http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="Lokal",useeinfo_USEE
 http://cc210b6aa55c.sn.mynetname.net/usee/useeinfo.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="Lokal",useephoto_USEE
@@ -84,18 +80,10 @@ http://gpc.my.id/vidio/6482.m3u8
 http://cc210b6aa55c.sn.mynetname.net/usee/muitv.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Fatwa TV_YOUTUBE" group-title="Lokal",Fatwa TV_YOUTUBE
 http://gpc.my.id/yt/RjhrRrIBRGwI6S7GxquzDASlDWD4CtWHvfoS@39MZEs=.m3u8
-#EXTINF:-1 tvg-id="BathokGpc" group-title="MENPORA" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?3
-#EXTINF:-1 tvg-id="BathokGpc" group-title="MENPORA" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
-http://gpc.my.id/kopi.ts?4
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Piala-Menpora1" group-title="MENPORA",Piala-Menpora1
 http://gpc.my.id/vidio/7677.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Piala-Menpora2" group-title="MENPORA",Piala-Menpora2
 http://gpc.my.id/vidio//7676.m3u8
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Sport" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?3
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Sport" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
-http://gpc.my.id/kopi.ts?4
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="Sport",TVRI-SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Champions-TV1_VIDIO" group-title="Sport",Champions-TV1_VIDIO
@@ -120,10 +108,6 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Astro SuperSport 4" group-title="Sport",Astro SuperSport 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-id="BathokGpc" group-title="NEWS" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?5
-#EXTINF:-1 tvg-id="BathokGpc" group-title="NEWS" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
-http://gpc.my.id/kopi.ts?6
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Metro-TV_VIDIO" group-title="NEWS",Metro-TV_VIDIO
 http://gpc.my.id/vidio/777.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="mncnews_USEE" group-title="NEWS",mncnews_USEE
@@ -162,10 +146,6 @@ http://cc210b6aa55c.sn.mynetname.net/usee/trtworld.m3u8
 http://cc210b6aa55c.sn.mynetname.net/usee/france24.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="NEWS",seatoday_USEE
 http://cc210b6aa55c.sn.mynetname.net/usee/seatoday.m3u8
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?7
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
-http://gpc.my.id/kopi.ts?8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="TVN_VIDIO" group-title="Entertainment",TVN_VIDIO
 http://gpc.my.id/vidio/6362.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Zee-Bioskop_VIDIO" group-title="Entertainment",Zee-Bioskop_VIDIO
@@ -208,10 +188,6 @@ http://cc210b6aa55c.sn.mynetname.net/usee/arirang.m3u8
 http://gpc.my.id/yt/5gYbqOb74gPgWnJi2eype9NvO8NEXVuoo8W8MVANHk0=.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="The K-POP_YOUTUBE" group-title="Entertainment",The K-POP_YOUTUBE
 http://gpc.my.id/yt/JrIQA7tYElUMYcb9uqza4qKgbM@@LXXp6Bbjv9@zJn8=.m3u8
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Kids and Knowledge" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?9
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Kids and Knowledge" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
-http://gpc.my.id/kopi.ts?10
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Astro-Ceria" group-title="Kids and Knowledge",Astro-Ceria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Hip-Hip-Hore_VIDIO" group-title="Kids and Knowledge",Hip-Hip-Hore_VIDIO
@@ -230,10 +206,6 @@ http://gpc.my.id/vidio/6838.m3u8
 http://gpc.my.id/vidio/6635.m3u8
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="National Geographic" group-title="Kids and Knowledge",National Geographic
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="BathokGpc" group-title="MOVIE" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?11
-#EXTINF:-1 tvg-id="BathokGpc" group-title="MOVIE" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
-http://gpc.my.id/kopi.ts?12
 #EXTINF:-1 tvg-id="BathokGpc" group-title="MOVIE" tvg-name="decoder",Rubah decoder ke hardware/native jika video tidak bisa di putar
 http://gpc.my.id/kopi.ts?13
 #EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="revan dan reina" group-title="MOVIE",revan dan reina
