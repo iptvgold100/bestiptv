@@ -1,0 +1,302 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Lokal" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?1
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Lokal" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
+http://gpc.my.id/kopi.ts?2
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="Lokal",useeinfo_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/useeinfo.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="Lokal",useephoto_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/useephoto.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="useeprime_USEE" group-title="Lokal",useeprime_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/useeprime.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="TVRI_VIDIO" group-title="Lokal",TVRI_VIDIO
+http://gpc.my.id/vidio/6441.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="ANTV" group-title="Lokal",ANTV
+http://cc210b6aa55c.sn.mynetname.net/mivo.php?live=antv
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Indosiar_VIDIO" group-title="Lokal",Indosiar_VIDIO
+http://gpc.my.id/vidio/205.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Trans-TV_VIDIO" group-title="Lokal",Trans-TV_VIDIO
+http://gpc.my.id/vidio/733.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="MNC_VIDIO" group-title="Lokal",MNC_VIDIO
+http://gpc.my.id/vidio/870.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="MNC+" group-title="Lokal",MNC+
+http://konohamaru.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="RCTI_VIDIO" group-title="Lokal",RCTI_VIDIO
+http://gpc.my.id/vidio/665.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="RCTI+" group-title="Lokal",RCTI+
+http://konohamaru.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="SCTV_VIDIO" group-title="Lokal",SCTV_VIDIO
+http://gpc.my.id/vidio/204.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="GTV_VIDIO" group-title="Lokal",GTV_VIDIO
+http://gpc.my.id/vidio/778.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="NET_VIDIO" group-title="Lokal",NET_VIDIO
+http://gpc.my.id/vidio/875.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="NET_YOUTUBE" group-title="Lokal",NET_YOUTUBE
+http://gpc.my.id/yt/mPOPNgk5CQlKrSQit69SjRApGWifW6nUMt4O9MZgSQ8=.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Tv-One_YOUTUBE" group-title="Lokal",Tv-One_YOUTUBE
+http://gpc.my.id/yt/WM3IiFe74xX2f@Iz3MpbEWez4jri0fQ4qtSlOzFFduY=.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Trans-7_VIDIO" group-title="Lokal",Trans-7_VIDIO
+http://gpc.my.id/vidio/734.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="rrinet_USEE" group-title="Lokal",rrinet_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/rrinet.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Berita-Satu_VIDIO" group-title="Lokal",Berita-Satu_VIDIO
+http://gpc.my.id/vidio/6165.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="balitv_USEE" group-title="Lokal",balitv_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/balitv.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Metro-TV_VIDIO" group-title="Lokal",Metro-TV_VIDIO
+http://gpc.my.id/vidio/777.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Kompas-Tv_VIDIO" group-title="Lokal",Kompas-Tv_VIDIO
+http://gpc.my.id/vidio/874.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="iNews_VIDIO" group-title="Lokal",iNews_VIDIO
+http://gpc.my.id/vidio/5409.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="CNN-Indoesia" group-title="Lokal",CNN-Indoesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="CNBC-Indoesia" group-title="Lokal",CNBC-Indoesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="antara_USEE" group-title="Lokal",antara_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/antara.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="jitv_USEE" group-title="Lokal",jitv_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/jitv.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="JTV" group-title="Lokal",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w348813271.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Jak-tv_VIDIO" group-title="Lokal",Jak-tv_VIDIO
+http://gpc.my.id/vidio/5415.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="tawaftv_USEE" group-title="Lokal",tawaftv_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/tawaftv.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Ochannel_VIDIO" group-title="Lokal",Ochannel_VIDIO
+http://gpc.my.id/vidio/206.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="uchannel_USEE" group-title="Lokal",uchannel_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/uchannel.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="RTV_VIDIO" group-title="Lokal",RTV_VIDIO
+http://gpc.my.id/vidio/1561.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="rodjatv_USEE" group-title="Lokal",rodjatv_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/rodjatv.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="AJWA-TV_VIDIO" group-title="Lokal",AJWA-TV_VIDIO
+http://gpc.my.id/vidio/7464.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="My_TV_VIDIO" group-title="Lokal",My_TV_VIDIO
+http://gpc.my.id/vidio/6711.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="NusantaraTV_VIDIO" group-title="Lokal",NusantaraTV_VIDIO
+http://gpc.my.id/vidio/7432.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="DAAI-Tv_VIDIO" group-title="Lokal",DAAI-Tv_VIDIO
+http://gpc.my.id/vidio/6482.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="muitv_USEE" group-title="Lokal",muitv_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/muitv.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Fatwa TV_YOUTUBE" group-title="Lokal",Fatwa TV_YOUTUBE
+http://gpc.my.id/yt/RjhrRrIBRGwI6S7GxquzDASlDWD4CtWHvfoS@39MZEs=.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" group-title="MENPORA" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?3
+#EXTINF:-1 tvg-id="BathokGpc" group-title="MENPORA" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
+http://gpc.my.id/kopi.ts?4
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Piala-Menpora1" group-title="MENPORA",Piala-Menpora1
+http://gpc.my.id/vidio/7677.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Piala-Menpora2" group-title="MENPORA",Piala-Menpora2
+http://gpc.my.id/vidio//7676.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Sport" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?3
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Sport" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
+http://gpc.my.id/kopi.ts?4
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="Sport",TVRI-SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Champions-TV1_VIDIO" group-title="Sport",Champions-TV1_VIDIO
+http://gpc.my.id/vidio/6685.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Champions-TV2_VIDIO" group-title="Sport",Champions-TV2_VIDIO
+http://gpc.my.id/vidio/6686.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Champions-TV3_VIDIO" group-title="Sport",Champions-TV3_VIDIO
+http://gpc.my.id/vidio/6786.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="ZQ-Sport" group-title="Sport",ZQ-Sport
+https://iptv.zqstream.com/zqsport-sec/tracks-v1a1/mono.m3u8?token=5ce9bd6df17d251fa103a6863a688b9a16518e3e-178d0fb20d44c79b15c6c5d0847ab42f-1617742931-1617735731
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Viasat-Sport" group-title="Sport",Viasat-Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="BT-Sport1" group-title="Sport",BT-Sport1
+http://iptvh.it/lvtt_kenh24
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="BT-Sport2" group-title="Sport",BT-Sport2
+http://iptvh.it/lvtt_kenh25
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Astro SuperSport" group-title="Sport",Astro SuperSport
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Astro SuperSport 2" group-title="Sport",Astro SuperSport 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Astro SuperSport 3" group-title="Sport",Astro SuperSport 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Astro SuperSport 4" group-title="Sport",Astro SuperSport 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" group-title="NEWS" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?5
+#EXTINF:-1 tvg-id="BathokGpc" group-title="NEWS" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
+http://gpc.my.id/kopi.ts?6
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Metro-TV_VIDIO" group-title="NEWS",Metro-TV_VIDIO
+http://gpc.my.id/vidio/777.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="mncnews_USEE" group-title="NEWS",mncnews_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/mncnews.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="MNC-News" group-title="NEWS",MNC-News
+https://cdn-livetv-studio.metube.id/mncnews.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Kompas-Tv_VIDIO" group-title="NEWS",Kompas-Tv_VIDIO
+http://gpc.my.id/vidio/874.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Idx-Channel" group-title="NEWS",Idx-Channel
+https://cdn-livetv-studio.metube.id/idxchannel.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="idx_USEE" group-title="NEWS",idx_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/idx.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="iNews_VIDIO" group-title="NEWS",iNews_VIDIO
+http://gpc.my.id/vidio/5409.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="CNN-Indoesia" group-title="NEWS",CNN-Indoesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="CNBC-Indoesia" group-title="NEWS",CNBC-Indoesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="antara_USEE" group-title="NEWS",antara_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/antara.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Aljazeera_VIDIO" group-title="NEWS",Aljazeera_VIDIO
+http://gpc.my.id/vidio/6410.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Euro-News_VIDIO" group-title="NEWS",Euro-News_VIDIO
+http://gpc.my.id/vidio/6412.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="ABC-Australia_VIDIO" group-title="NEWS",ABC-Australia_VIDIO
+http://gpc.my.id/vidio/7150.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="CNA_YOUTUBE" group-title="NEWS",CNA_YOUTUBE
+http://gpc.my.id/yt/LznZD053UWk5P6ZByaQYdgkjimEE7hiPZppX6b5n5Jk=.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="dwtv_USEE" group-title="NEWS",dwtv_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/dwtv.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="DW-News_YOUTUBE" group-title="NEWS",DW-News_YOUTUBE
+http://gpc.my.id/yt/XOgkNfjnxFT14YLPSZJKKjmc0lSgaoI@2wIgkq/PBoE=.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="trtworld_USEE" group-title="NEWS",trtworld_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/trtworld.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="france24_USEE" group-title="NEWS",france24_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/france24.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="NEWS",seatoday_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/seatoday.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?7
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
+http://gpc.my.id/kopi.ts?8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="TVN_VIDIO" group-title="Entertainment",TVN_VIDIO
+http://gpc.my.id/vidio/6362.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Zee-Bioskop_VIDIO" group-title="Entertainment",Zee-Bioskop_VIDIO
+http://gpc.my.id/vidio/6399.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Citra-Bioskop_VIDIO" group-title="Entertainment",Citra-Bioskop_VIDIO
+http://gpc.my.id/vidio/6684.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Citra-Drama_VIDIO" group-title="Entertainment",Citra-Drama_VIDIO
+http://gpc.my.id/vidio/6401.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Citra-Dangut_VIDIO" group-title="Entertainment",Citra-Dangut_VIDIO
+http://gpc.my.id/vidio/6587.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Citra-Entertainment_VIDIO" group-title="Entertainment",Citra-Entertainment_VIDIO
+http://gpc.my.id/vidio/6402.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="ZING_VIDIO" group-title="Entertainment",ZING_VIDIO
+http://gpc.my.id/vidio/6747.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Magna-TV_VIDIO" group-title="Entertainment",Magna-TV_VIDIO
+http://gpc.my.id/vidio/7230.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="Entertainment",pramborstv_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/pramborstv.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="MUSICA_VIDIO" group-title="Entertainment",MUSICA_VIDIO
+http://gpc.my.id/vidio/7619.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Insert-Live" group-title="Entertainment",Insert-Live
+https://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="KUNGFU CLASSIC ATV" group-title="Entertainment",KUNGFU CLASSIC ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="DRAKOR" group-title="Entertainment",DRAKOR
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=5ce9bd6df17d251fa103a6863a688b9a16518e3e-178d0fb20d44c79b15c6c5d0847ab42f-1617742931-1617735731
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="Entertainment",chinesedrama_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/chinesedrama.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Mola-TV_VIDIO" group-title="Entertainment",Mola-TV_VIDIO
+http://gpc.my.id/vidio/6840.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/cctv4.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="Entertainment",nhkworld_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/nhkworld.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="eljohn_USEE" group-title="Entertainment",eljohn_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/eljohn.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="Entertainment",arirang_USEE
+http://cc210b6aa55c.sn.mynetname.net/usee/arirang.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Arirang-TV-World_YOUTUBE" group-title="Entertainment",Arirang-TV-World_YOUTUBE
+http://gpc.my.id/yt/5gYbqOb74gPgWnJi2eype9NvO8NEXVuoo8W8MVANHk0=.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="The K-POP_YOUTUBE" group-title="Entertainment",The K-POP_YOUTUBE
+http://gpc.my.id/yt/JrIQA7tYElUMYcb9uqza4qKgbM@@LXXp6Bbjv9@zJn8=.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Kids and Knowledge" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?9
+#EXTINF:-1 tvg-id="BathokGpc" group-title="Kids and Knowledge" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
+http://gpc.my.id/kopi.ts?10
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Astro-Ceria" group-title="Kids and Knowledge",Astro-Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Hip-Hip-Hore_VIDIO" group-title="Kids and Knowledge",Hip-Hip-Hore_VIDIO
+http://gpc.my.id/vidio/7052.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Zoomoo_VIDIO" group-title="Kids and Knowledge",Zoomoo_VIDIO
+http://gpc.my.id/vidio/6533.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Da-Vinci_VIDIO" group-title="Kids and Knowledge",Da-Vinci_VIDIO
+http://gpc.my.id/vidio/6549.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Horee_VIDIO" group-title="Kids and Knowledge",Horee_VIDIO
+http://gpc.my.id/vidio/6397.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Smithsonian_VIDIO" group-title="Kids and Knowledge",Smithsonian_VIDIO
+http://gpc.my.id/vidio/6550.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="TV-Edukasi_VIDIO" group-title="Kids and Knowledge",TV-Edukasi_VIDIO
+http://gpc.my.id/vidio/6838.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Love-Nature_VIDIO" group-title="Kids and Knowledge",Love-Nature_VIDIO
+http://gpc.my.id/vidio/6635.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="National Geographic" group-title="Kids and Knowledge",National Geographic
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="BathokGpc" group-title="MOVIE" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?11
+#EXTINF:-1 tvg-id="BathokGpc" group-title="MOVIE" tvg-name="donasi https://saweria.co/bathok",donasi https://saweria.co/bathok
+http://gpc.my.id/kopi.ts?12
+#EXTINF:-1 tvg-id="BathokGpc" group-title="MOVIE" tvg-name="decoder",Rubah decoder ke hardware/native jika video tidak bisa di putar
+http://gpc.my.id/kopi.ts?13
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="revan dan reina" group-title="MOVIE",revan dan reina
+http://gpc.my.id/yt/VZazcoKr6Ih1Pdnl1SHjNK3gNKkHCysj62IkDJfru6U=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="anak negeri" group-title="MOVIE",anak negeri
+http://gpc.my.id/yt/phx9KgskXk0QmkNFHs0BRnR4q4kUnHnyI2dsVELesTE=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="martabak bangka" group-title="MOVIE",martabak bangka
+http://gpc.my.id/yt/8saVZ6dOXR53EXlFA36rzZRhNMW0m1PLTW26A56Ljmg=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="total chaos" group-title="MOVIE",total chaos
+http://gpc.my.id/yt/fpg6LFAQ4@3GGAYscqY70fnxjg@Q@rmCJIHfATnRoko=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="ketika mas gagah pergi" group-title="MOVIE",ketika mas gagah pergi
+http://gpc.my.id/yt/B4b9iTjqKzsL2qK@cpUFgXT7LFJ3@QKeiRTMn1Kncc0=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="kejarlah jodoh kau ku tangkap" group-title="MOVIE",kejarlah jodoh kau ku tangkap
+http://gpc.my.id/yt/3ztcWFjh9gzoLXpL5sUj7dnwDtQRMhD5DDKPL5jZApQ=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="ketika bung di ende" group-title="MOVIE",ketika bung di ende
+http://gpc.my.id/yt/GDRV@U9ygmchM88imfl72yscd@lgIGXMOfa1AhA7JwQ=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="jokowi" group-title="MOVIE",jokowi
+http://gpc.my.id/yt/4zE54bSQEQ7pty2WPfGOEE7N00JwYoTX46UKUy8HIkM=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Tak Seindah Kasih Mama (1986)" group-title="MOVIE",Tak Seindah Kasih Mama (1986)
+http://gpc.my.id/yt/mRyTdxnArr09DcTPqAU7VyQfrT4KCxU6V50k6UAjJos=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Warkop DKI - Jodoh Boleh Diatur" group-title="MOVIE",Warkop DKI - Jodoh Boleh Diatur
+http://gpc.my.id/yt/xal9e7zmiku8m1ooBDKUDo2ab1iXHTR4fdiBfFOiv2w=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="miskin susah kaya susah" group-title="MOVIE",miskin susah kaya susah
+http://gpc.my.id/yt/j7FI5IC57Z3U@6q1A6ph8tCoH4e3rtzqXrrq24OSUr8=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Pretty Boys" group-title="MOVIE",Pretty Boys
+http://gpc.my.id/yt/FlyC@oIe24EQf6RgQ6VwEhlnov9Gwpa0ot1Fyaa3QgM=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Radio Galau FM" group-title="MOVIE",Radio Galau FM
+http://gpc.my.id/yt/S8SV4oupRdLkna@P3zmT4GIdz2yfAuqVpMk/@/GAu9k=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Melodylan" group-title="MOVIE",Melodylan
+http://gpc.my.id/yt/HdcQSt2JF10vXFbQtDRUcJjtHnKIsfY@LQJ2UC3RdBI=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Doremi And You" group-title="MOVIE",Doremi And You
+http://gpc.my.id/yt/No@A7L7OHn5@xGeI7goomnb8fBfkB0LeWWhnsh9s2ok=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="isterlillah: Cita Cinta Muslimah" group-title="MOVIE",isterlillah: Cita Cinta Muslimah
+http://gpc.my.id/yt/bn7RHxIOBwLS3zrjypWWlpcsCytoXcFEAde4MoULQpg=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Tanah Cita Cita" group-title="MOVIE",Tanah Cita Cita
+http://gpc.my.id/yt/kWXw54FpKXgTyQWJIZc6HPD7ztvE7ZnCYO8KvnD9j@0=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="CHI KUNG" group-title="MOVIE",CHI KUNG
+http://gpc.my.id/yt/CYKBuwVl1VXdxvS0BFxASo5AI1Do1IIFjZiKvF@gu4Y=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="PERTARUHAN" group-title="MOVIE",PERTARUHAN
+http://gpc.my.id/yt/LVci40k2sESygUzVwFNJNt0P0v7rjAfzgybISKyZ0C8=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Little Treasures of Lombok" group-title="MOVIE",Little Treasures of Lombok
+http://gpc.my.id/yt/DEM8cPsuUfX6t8HdWwTneYm87YV4xUyfhlQF4MkjIK8=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Jaran Goyang" group-title="MOVIE",Jaran Goyang
+http://gpc.my.id/yt/gjiVcOtO5MJKV17RmsBa4XHkboqAJ2kXTXSRwg3zFb4=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="janji jantan" group-title="MOVIE",janji jantan
+http://gpc.my.id/yt/mJwjQ@UNkeU4AjRFOFnYSDRBngBZp/zw0Mfr7YktCBA=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Pasukan Berani Mati" group-title="MOVIE",Pasukan Berani Mati
+http://gpc.my.id/yt/A3068aTmlrmsUfllXRVfdTUEsMy4dWjeFABYzLD0los=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="PAKU PONTIANAK" group-title="MOVIE",PAKU PONTIANAK
+http://gpc.my.id/yt/uRI1yGkBlIGWLlVdbVIBog0u6qaUYB6nA03vkiWZ11o=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="GUNUNG KAWI" group-title="MOVIE",GUNUNG KAWI
+http://gpc.my.id/yt/v15W22DTRUXKnfu65uNbQAZXfTiJmYTq6Y223ZKfN88=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Sang Penari" group-title="MOVIE",Sang Penari
+http://gpc.my.id/yt/jCbExzNMo6cgO0rmkqzJswCkUgRTtjcG4p9ao9Lq8u0=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Bebas" group-title="MOVIE",Bebas
+http://gpc.my.id/yt/nVfk3g780Sy8Cixlpo1YGzOS4abDPbBY1IcdrTcTHiE=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Cinta Pertamaku" group-title="MOVIE",Cinta Pertamaku
+http://gpc.my.id/yt/ugeOL1tusMAEG5DYfoI2sd4j7D@Zgua217PbgQl5gZI=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="Thank You Cinta" group-title="MOVIE",Thank You Cinta
+http://gpc.my.id/yt/MFQUrvIXgSypEQfGebUEbFCNRO9S89A2g@ffhP@4FgU=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="My Idiot Brother" group-title="MOVIE",My Idiot Brother
+http://gpc.my.id/yt/kbSpLimB8i2Mqep33/0UoXqxl38rNmvEBE6@xIpdRu0=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="NEGERI DI BAWAH KABUT" group-title="MOVIE",NEGERI DI BAWAH KABUT
+http://gpc.my.id/yt/nr4hrnrIJ79UHubXUPKFs@MYulb6rbpSNrPT3ypuGto=.m3u8
+#EXTINF:-1 tvg-logo="-" tvg-id="BathokGpc" tvg-name="8 HARI MENAKLUKKAN COWOK" group-title="MOVIE",8 HARI MENAKLUKKAN COWOK
+http://gpc.my.id/yt/hWtLQgZgeI6CRtavqHVCar@Lm2cA3YPIQQX12hzuRDs=.m3u8
